@@ -18,7 +18,7 @@
 
 ### List of All Tableau Dashboard:
 
-[Team 1	World Air Quality Index by City and Coordinates: Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
+[Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes), 
   [Part 3](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard3/Dashboard3?publish=yes), 
   [Part 4](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard4/Dashboard4?publish=yes), 
