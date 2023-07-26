@@ -6,7 +6,8 @@
 
 **Instructor:** Dr. Mohammad Ali Alamdar Yazdi (yazdi@jhu.edu)
 
-**Semesters:** Summer-23
+**TAs for Summer-23**: Ali Aahil Noorali (anooral1@jhmi.edu), Andriani Widiastuti (awidias1@jhu.edu), Fayez Ahmed (fahmed29@jhu.edu), Sneh Sonaiya (ssonaiy1@jhu.edu), 
+Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 **Duration:** 8 Weeks
 
