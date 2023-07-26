@@ -19,10 +19,10 @@
 ### List of All Tableau Dashboard:
 
 Team 1	World Air Quality Index by City and Coordinates:
-  [Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes)
-  [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes)
-  [Part 3](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard3/Dashboard3?publish=yes)
-  [Part 4](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard4/Dashboard4?publish=yes)
+  [Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
+  [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes), 
+  [Part 3](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard3/Dashboard3?publish=yes), 
+  [Part 4](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard4/Dashboard4?publish=yes), 
   [Part 5](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard5/Dashboard5?publish=yes")
 
 [Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
@@ -46,12 +46,12 @@ Team 1	World Air Quality Index by City and Coordinates:
 [Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 
 Team 12 Airline Passenger Satisfaction
-  [Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes)
+  [Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionVariablesExploration/AirlinePassengerSatisfactionVariableExploration?publish=yes)
 
 Team 13	Dating App Fame & Behavior	
-  [Part 1](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-  [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+  [Part 1](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
+  [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 3](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg)
@@ -69,8 +69,8 @@ Team 13	Dating App Fame & Behavior
 [Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
 
 Team 21	NBA Players	
-[Part 1](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/TXH5993YH)
-[Part 2](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/XGZ9YN2R8)
+[Part 1](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/TXH5993YH), 
+[Part 2](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/XGZ9YN2R8), 
 [Part 3](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/M6353FPZS)
 
 [Team 22 Personal Key Indicator of Heart Disease](https://public.tableau.com/views/Group_22_Final_Project/DiseaseRelatedHealthCondition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -102,19 +102,19 @@ Team 21	NBA Players
 [Team 35 Airline Passenger Satisfaction](https://public.tableau.com/views/finalrevision_16901324310060/Dashboard-1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Team 36	Investors in China 
-[Part 1](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Top5FundsBasedonNumericIndices?publish=yes)
-[Part 2](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/CorrelationsAmongNumericIndices?publish=yes)
-[Part 3](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/FundClusteringAnalysis?publish=yes)
-[Part 4](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/InvestmentMap?publish=yes)
-[Part 5](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ExitMap?publish=yes)
-[Part 6](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ExitRatioExploration?publish=yes)
-[Part 7](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Co-impactsofInvestmentStageandInvestorTypeonNumberofExits?publish=yes)
+[Part 1](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Top5FundsBasedonNumericIndices?publish=yes), 
+[Part 2](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/CorrelationsAmongNumericIndices?publish=yes), 
+[Part 3](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/FundClusteringAnalysis?publish=yes), 
+[Part 4](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/InvestmentMap?publish=yes), 
+[Part 5](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ExitMap?publish=yes), 
+[Part 6](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ExitRatioExploration?publish=yes), 
+[Part 7](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Co-impactsofInvestmentStageandInvestorTypeonNumberofExits?publish=yes), 
 [Part 8](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ActiveLevelRankbyCountryRegion)
 
 [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
 
 Team 38	University Rankings	
-[Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
@@ -128,7 +128,7 @@ Team 38	University Rankings
 [Team 43 World Air Quality Index by City and Coordinates](https://public.tableau.com/views/Team43Final_16899951031240/AirQualityIndexValueofCountries?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Team 44	121 Airline Passenger Satisfaction	
-[Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck)
+[Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
 [Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
 
 [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -140,7 +140,7 @@ Team 44	121 Airline Passenger Satisfaction
 [Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Team 49	New York City Airbnb Open Data (221)	
-[Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 50 EV population data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
