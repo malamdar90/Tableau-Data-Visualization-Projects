@@ -144,5 +144,6 @@ Part 2 https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-Fin
 50	EV population data	https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 51	Bees & Pesticides	https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link
-![image](https://github.com/malamdar90/Data-Visualization-Tableau-Students-Projects/assets/87002822/3878d4b5-a4cc-44bf-b968-bf52e1c849db)
+
+
 
