@@ -16,18 +16,21 @@
 
 **Course Description:** This project-based course prepares students to make informed decisions based on data using descriptive-analytical techniques. Students will view examples from real-world business cases in which data visualization helps the decision makers to visualize, discover, and decode the hidden information from within the data, and to exploit such information for making educated decisions. We will use Tableau to import, clean, transform, analyze, visualize, and present data. As the course progresses, students will learn to work with Tableau features such as data connectors, data blending, data preparation, interactive dashboards, and calculations and functions. During the eight weeks of the course, students will collaborate with each other in small teams to analyze real-world datasets as well as design, build, and deliver interactive visualizations and dashboards.
 
-## List of All Shiny Applications: [Here](https://docs.google.com/spreadsheets/d/1bslTvPrOe67DY1Yz-ojWWuSstVWI7j1ibGfCo8N8vrU/edit#gid=0)
-
 ### List of All Tableau Dashboard:
 
-1	World Air Quality Index by City and Coordinates	"1. https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes
-2. https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes
-3. https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard3/Dashboard3?publish=yes
-4. https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard4/Dashboard4?publish=yes
-5. https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard5/Dashboard5?publish=yes"
+Team 1	World Air Quality Index by City and Coordinates:
+  [Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes)
+  [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes)
+  [Part 3](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard3/Dashboard3?publish=yes)
+  [Part 4](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard4/Dashboard4?publish=yes)
+  [Part 5](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard5/Dashboard5?publish=yes")
+
 [Team 2 - Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
-3	Google Play Store_Cleaned	https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis
-4	New York City Airbnb Open Data	https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link
+
+[Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
+
+[Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
+
 5	Bike Sharing	https://public.tableau.com/shared/KPRY93R6H?:display_count=n&:origin=viz_share_link
 6	Adidas Sales Dataset	https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis
 7	Diabetes prediction dataset	https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link
