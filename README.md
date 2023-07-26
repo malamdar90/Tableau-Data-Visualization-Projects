@@ -48,8 +48,7 @@ Team 12 Airline Passenger Satisfaction
   [Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionVariablesExploration/AirlinePassengerSatisfactionVariableExploration?publish=yes)
 
-Team 13	Dating App Fame & Behavior	
-  [Part 1](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
+[Team 13	Dating App Fame & Behavior Part 1](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 3](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
@@ -67,8 +66,7 @@ Team 13	Dating App Fame & Behavior
 
 [Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
 
-Team 21	NBA Players	
-[Part 1](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/TXH5993YH), 
+[Team 21	NBA Players	Part 1](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/TXH5993YH), 
 [Part 2](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/XGZ9YN2R8), 
 [Part 3](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/M6353FPZS)
 
@@ -100,8 +98,7 @@ Team 21	NBA Players
 
 [Team 35 Airline Passenger Satisfaction](https://public.tableau.com/views/finalrevision_16901324310060/Dashboard-1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Team 36	Investors in China 
-[Part 1](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Top5FundsBasedonNumericIndices?publish=yes), 
+[Team 36	Investors in China Part 1](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Top5FundsBasedonNumericIndices?publish=yes), 
 [Part 2](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/CorrelationsAmongNumericIndices?publish=yes), 
 [Part 3](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/FundClusteringAnalysis?publish=yes), 
 [Part 4](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/InvestmentMap?publish=yes), 
@@ -112,8 +109,7 @@ Team 36	Investors in China
 
 [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
 
-Team 38	University Rankings	
-[Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
@@ -126,8 +122,7 @@ Team 38	University Rankings
 
 [Team 43 World Air Quality Index by City and Coordinates](https://public.tableau.com/views/Team43Final_16899951031240/AirQualityIndexValueofCountries?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Team 44	121 Airline Passenger Satisfaction	
-[Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
+[Team 44	121 Airline Passenger Satisfaction	Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
 [Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
 
 [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -138,8 +133,7 @@ Team 44	121 Airline Passenger Satisfaction
 
 [Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Team 49	New York City Airbnb Open Data (221)	
-[Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[Team 49	New York City Airbnb Open Data (221) Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 50 EV population data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
