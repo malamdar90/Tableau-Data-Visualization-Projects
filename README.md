@@ -44,8 +44,7 @@
 
 [Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 
-Team 12 Airline Passenger Satisfaction
-  [Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
+[Team 12 Airline Passenger Satisfaction Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionVariablesExploration/AirlinePassengerSatisfactionVariableExploration?publish=yes)
 
 [Team 13	Dating App Fame & Behavior Part 1](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
