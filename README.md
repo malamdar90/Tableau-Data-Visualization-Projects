@@ -45,6 +45,12 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 ## Rank 10-20 Tableau projects:
 
+[Team 7	Diabetes prediction dataset](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
+
+[Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
+
+[Team 23 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/yuchun.wu1352/viz/DV7_3Team_23/Team23Story)
+
 [Team 36	Investors in China Part 1](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Top5FundsBasedonNumericIndices?publish=yes), 
 [Part 2](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/CorrelationsAmongNumericIndices?publish=yes), 
 [Part 3](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/FundClusteringAnalysis?publish=yes), 
@@ -62,8 +68,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 50 EV population data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-
-
 ## All other Tableau projects:
 
 [Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
@@ -75,8 +79,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
 
 [Team 5	Bike Sharing](https://public.tableau.com/shared/KPRY93R6H?:display_count=n&:origin=viz_share_link)
-
-[Team 7	Diabetes prediction dataset](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
 
 [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
@@ -93,8 +95,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 18 USA Real Estate Dataset](https://public.tableau.com/app/profile/zifan.xu3168/viz/DV_FinalProject_FinalVersion/Whereandhowtochooseyourhouse?publish=yes)
 
-[Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
-
 [Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
 
 [Team 21	NBA Players	Part 1](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/TXH5993YH), 
@@ -102,8 +102,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Part 3](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/M6353FPZS)
 
 [Team 22 Personal Key Indicator of Heart Disease](https://public.tableau.com/views/Group_22_Final_Project/DiseaseRelatedHealthCondition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 23 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/yuchun.wu1352/viz/DV7_3Team_23/Team23Story)
 
 [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
