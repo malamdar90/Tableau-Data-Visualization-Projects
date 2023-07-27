@@ -34,12 +34,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
-[Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
-
-[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking) 87 and 84](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
-
-[Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
 ## All other Tableau projects:
 
 [Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
@@ -121,6 +115,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Part 7](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Co-impactsofInvestmentStageandInvestorTypeonNumberofExits?publish=yes), 
 [Part 8](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ActiveLevelRankbyCountryRegion)
 
+[Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
+
 [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
 
 [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -136,7 +132,11 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking) 87 and 84](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
+
 [Team 47 IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 49	New York City Airbnb Open Data (221) Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -144,6 +144,5 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 50 EV population data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 
 
