@@ -34,6 +34,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg)
 
+[Team 17 Hotel booking and cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
@@ -67,8 +69,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 15 New York City Airbnb Open Data](https://public.tableau.com/views/Group15_16898776937640/Whatfactorshaveimpactsonairbnbprice?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 16 Avocado Prices](https://public.tableau.com/views/AvocadoPricesStory/AvocadoPrices?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 17 Hotel booking and cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 18 USA Real Estate Dataset](https://public.tableau.com/app/profile/zifan.xu3168/viz/DV_FinalProject_FinalVersion/Whereandhowtochooseyourhouse?publish=yes)
 
