@@ -18,8 +18,23 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 **Course Description:** This project-based course prepares students to make informed decisions based on data using descriptive-analytical techniques. Students will view examples from real-world business cases in which data visualization helps the decision makers to visualize, discover, and decode the hidden information from within the data, and to exploit such information for making educated decisions. We will use Tableau to import, clean, transform, analyze, visualize, and present data. As the course progresses, students will learn to work with Tableau features such as data connectors, data blending, data preparation, interactive dashboards, and calculations and functions. During the eight weeks of the course, students will collaborate with each other in small teams to analyze real-world datasets as well as design, build, and deliver interactive visualizations and dashboards.
 
 
+## Highlighted Tableau projects:
 
-## Links to all Tableau dashboards:
+[Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
+
+[Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
+
+[Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
+
+[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
+
+[Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
+
+[Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+## All other Tableau projects:
 
 [Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes), 
@@ -27,11 +42,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
   [Part 4](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard4/Dashboard4?publish=yes), 
   [Part 5](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard5/Dashboard5?publish=yes")
 
-[Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
-
 [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
-
-[Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
 
 [Team 5	Bike Sharing](https://public.tableau.com/shared/KPRY93R6H?:display_count=n&:origin=viz_share_link)
 
@@ -44,8 +55,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 9	E-Commerce Sales Dataset](https://public.tableau.com/views/Team9_16903057124830/AnalyzeAmazonE-CommerceinIndia?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 10 Students Exam Scores: Extended Dataset](https://public.tableau.com/views/Exam_Score_Team10/DetailsofExamPerformance?:language=zh-CN&:display_count=n&:origin=viz_share_link)
-
-[Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 
 [Team 12 Airline Passenger Satisfaction Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionVariablesExploration/AirlinePassengerSatisfactionVariableExploration?publish=yes)
@@ -78,7 +87,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 26 Credit Card Spend Analysis](https://public.tableau.com/app/profile/xuan.wang3756/viz/Team26-IndiaCreditCardSpendAnalysis/IndiaCreditCardAnalysisStory#2)
 
@@ -108,11 +116,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Part 6](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ExitRatioExploration?publish=yes), 
 [Part 7](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Co-impactsofInvestmentStageandInvestorTypeonNumberofExits?publish=yes), 
 [Part 8](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ActiveLevelRankbyCountryRegion)
-
-[Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
-
-[Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
-[Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
 
