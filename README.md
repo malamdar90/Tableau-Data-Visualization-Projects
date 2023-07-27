@@ -35,6 +35,9 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking) 87 and 84](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
+
+[Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## All other Tableau projects:
 
@@ -132,11 +135,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking) 87 and 84](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
-
 [Team 47 IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-[Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 49	New York City Airbnb Open Data (221) Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
