@@ -40,6 +40,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
 
+[Team 35 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1))
+
 [Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -121,8 +123,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 32 Airline Passenger Satisfaction](https://public.tableau.com/views/Airline_Final_Project_16898878870150/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 34 Walmart Dataset](https://public.tableau.com/app/profile/gaoya.zhao/viz/Group34-WalmartDataset-SalesandEconomicFactors/EcononicFactorsandSalesDashboard#1)
-
-[Team 35 Airline Passenger Satisfaction]([https://public.tableau.com/views/finalrevision_16901324310060/Dashboard-1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1))
 
 [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
 
