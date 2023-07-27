@@ -58,8 +58,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking) 87 and 84](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
-
 [Team 50 EV population data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## All other Tableau projects:
@@ -134,6 +132,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
 
 [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking) 87 and 84](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
 
 [Team 47 IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
 
