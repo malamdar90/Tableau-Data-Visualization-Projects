@@ -122,7 +122,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 34 Walmart Dataset](https://public.tableau.com/app/profile/gaoya.zhao/viz/Group34-WalmartDataset-SalesandEconomicFactors/EcononicFactorsandSalesDashboard#1)
 
-[Team 35 Airline Passenger Satisfaction](https://public.tableau.com/views/finalrevision_16901324310060/Dashboard-1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+[Team 35 Airline Passenger Satisfaction]([https://public.tableau.com/views/finalrevision_16901324310060/Dashboard-1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1))
 
 [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
 
