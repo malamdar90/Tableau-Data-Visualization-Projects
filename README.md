@@ -36,6 +36,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
+[Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
+
 [Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -84,10 +86,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-
 [Team 26 Credit Card Spend Analysis](https://public.tableau.com/app/profile/xuan.wang3756/viz/Team26-IndiaCreditCardSpendAnalysis/IndiaCreditCardAnalysisStory#2)
-
-[Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
 
 [Team 28 Lending Club Loan Dataset](https://public.tableau.com/views/Team28LoanStatusAnalysis/IncomeLevelisNotTheOnlyFactorOurGradingSystemisRelativelyAccurate?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
