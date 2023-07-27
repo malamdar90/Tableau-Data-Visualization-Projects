@@ -26,6 +26,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 
+[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg)
+
 [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
@@ -62,8 +64,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 13	Dating App Fame & Behavior Part 1](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 3](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg)
 
 [Team 15 New York City Airbnb Open Data](https://public.tableau.com/views/Group15_16898776937640/Whatfactorshaveimpactsonairbnbprice?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
