@@ -22,6 +22,9 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
 
+[Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 [Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
 
 [Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
@@ -31,9 +34,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
-
-[Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
-[Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking) 87 and 84](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
 
