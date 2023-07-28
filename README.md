@@ -27,7 +27,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
   [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 3](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) Watch the presentation: due to commercial data restrictions, the Tableau file is not accessible to the public.)
+[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) (Watch the presentation! Due to commercial data restrictions, the Tableau file is not accessible to the public.)
 
 [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
