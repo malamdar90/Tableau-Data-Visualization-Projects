@@ -23,7 +23,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 1) [Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) (Due to commercial data restrictions, the Tableau file is not accessible to the public)
 
-2) [Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
+2) [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 3) [Team 13	Dating App Fame & Behavior Part 1](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
@@ -34,6 +34,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
 
+[Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
+
 [Team 6	Adidas Sales Dataset](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)
 
 [Team 7	Diabetes prediction dataset](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
@@ -43,8 +45,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 17 Hotel booking and cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
-
-[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
 
