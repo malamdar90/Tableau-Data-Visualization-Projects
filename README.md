@@ -48,6 +48,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
 
+[Team 35 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1)
+
 [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
 
 [Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
@@ -112,8 +114,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 33 IBM HR Analytics Employee Attrition & Performance](https://public.tableau.com/app/profile/jingxi.zhao/viz/DV_Project_final_Group33/IBMHRAnalyticsEmployeeAttritionPerformance?publish=yes)
 
 [Team 34 Walmart Dataset](https://public.tableau.com/app/profile/gaoya.zhao/viz/Group34-WalmartDataset-SalesandEconomicFactors/EcononicFactorsandSalesDashboard#1)
-
-[Team 35 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1)
 
 [Team 36	Investors in China Part 1](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Top5FundsBasedonNumericIndices?publish=yes), 
 [Part 2](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/CorrelationsAmongNumericIndices?publish=yes), 
