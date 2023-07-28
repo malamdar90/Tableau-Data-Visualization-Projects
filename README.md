@@ -24,6 +24,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 
+[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg)
+
 [Team 13	Dating App Fame & Behavior Part 1](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
   [Part 3](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -41,8 +43,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 6	Adidas Sales Dataset](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)
 
 [Team 7	Diabetes prediction dataset](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
-
-[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg)
 
 [Team 17 Hotel booking and cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
