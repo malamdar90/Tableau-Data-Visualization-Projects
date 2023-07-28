@@ -4,9 +4,9 @@
 
 **School:** Johns Hopkins Carey Business School
 
-**Instructor:** Dr. Mohammad Ali Alamdar Yazdi (yazdi@jhu.edu)
+**Instructor:** [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
 
-**Students:** Total of 229 MS & MBA students
+**Students:** Total of 229 MS & MBA Students in 51 Teams
 
 **Format:** Onsite, Remote, and Online
 
