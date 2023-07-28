@@ -1,4 +1,4 @@
-# Students' Projects in the Data Visualization Course
+# About the Data Visualization Course
 
 **Class:** BU.520.650 Data Visualization
 
