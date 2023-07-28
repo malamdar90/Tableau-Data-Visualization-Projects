@@ -36,13 +36,13 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
 
-[Team 6	Adidas Sales Dataset](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)
+[Team 6	Adidas Sales](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)
 
-[Team 7	Diabetes prediction dataset](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
+[Team 7	Diabetes Prediction](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
 
 [Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 
-[Team 17 Hotel booking and cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
 
@@ -55,7 +55,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 50 EV population data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Team 50 EV Population Data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## All Other Projects
@@ -105,7 +105,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 30 Company Bankruptcy Prediction](https://public.tableau.com/views/CompanyBankruptcy7_21_1/Dashboard?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 31 IMDB movies dataset](https://public.tableau.com/views/Datavisualization_IMDB_Group_31_Final/ItisbettertoproducedocumentarygenreandJuneandDecemberarebettertimetoreleaseMovie?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Team 31 IMDB Movies Dataset](https://public.tableau.com/views/Datavisualization_IMDB_Group_31_Final/ItisbettertoproducedocumentarygenreandJuneandDecemberarebettertimetoreleaseMovie?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 32 Airline Passenger Satisfaction](https://public.tableau.com/views/Airline_Final_Project_16898878870150/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
