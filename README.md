@@ -63,6 +63,13 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 50 EV Population Data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+[Team 52 US Pollution Data](https://public.tableau.com/views/U_S_AirPollution/AirPollution	https://youtu.be/QpVaGL5-8yo?si=-9kNAl72UKIpy7RH)
+
+[Team 53 Airbnb Prices in European cities](https://public.tableau.com/app/profile/sawyer.olson/viz/Team53AirbnbFinalProject/AirbnbFinalProject	https://www.youtube.com/watch?v=jROxfu49Ix0)
+
+[Team 54 Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1	https://www.youtube.com/watch?v=yPQs00ch1Mo)
+
+[Team 55 Prison Population](https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
 
 ## Noteworthy Projects
 
@@ -147,12 +154,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-
-[Team 52 US Pollution Data]	(https://public.tableau.com/views/U_S_AirPollution/AirPollution	https://youtu.be/QpVaGL5-8yo?si=-9kNAl72UKIpy7RH)
-[Team 53 Airbnb Prices in European cities]	)https://public.tableau.com/app/profile/sawyer.olson/viz/Team53AirbnbFinalProject/AirbnbFinalProject	https://www.youtube.com/watch?v=jROxfu49Ix0)
-[Team 54 Shark Tank USA Database]	(https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1	https://www.youtube.com/watch?v=yPQs00ch1Mo)
-[Team 55 Prison Population]	(https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
 [Team 56 NBA Player Data]	(https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
 
 
