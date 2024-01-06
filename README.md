@@ -4,16 +4,22 @@
 
 **School:** Johns Hopkins Carey Business School
 
+**Location:** Washington DC
+
 **Instructor:** [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
 
-**Students:** Total of 229 MS & MBA Students in 51 Teams
+**Students:** 
+Summer 2023: Total of 229 MS & MBA Students
+Fall 2023: 21 Undergrad Students (in BU.667.310 Business Analytics and Statistics course)
 
-**Format:** Onsite, Remote, and Online
+**Format:** In-Person and Remote
 
 **TAs for Summer-23**: Ali Aahil Noorali (anooral1@jhmi.edu), Andriani Widiastuti (awidias1@jhu.edu), Fayez Ahmed (fahmed29@jhu.edu), Sneh Sonaiya (ssonaiy1@jhu.edu), 
 Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 **Duration:** 8 Weeks
+
+**Units:** 2
 
 **Course Description:** This project-based course prepares students to make informed decisions based on data using descriptive-analytical techniques. Students will view examples from real-world business cases in which data visualization helps the decision makers to visualize, discover, and decode the hidden information from within the data, and to exploit such information for making educated decisions. We will use Tableau to import, clean, transform, analyze, visualize, and present data. As the course progresses, students will learn to work with Tableau features such as data connectors, data blending, data preparation, interactive dashboards, and calculations and functions. During the eight weeks of the course, students will collaborate with each other in small teams to analyze real-world datasets as well as design, build, and deliver interactive visualizations and dashboards.
 
