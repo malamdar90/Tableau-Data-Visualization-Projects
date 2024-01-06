@@ -9,8 +9,8 @@
 **Instructor:** [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
 
 **Students:** 
-Summer 2023: Total of 229 MS & MBA Students
-Fall 2023: 21 Undergrad Students (in BU.667.310 Business Analytics and Statistics course)
+- Summer 2023: Total of 229 MS & MBA Students
+- Fall 2023: 21 Undergrad Students (in BU.667.310 Business Analytics and Statistics course)
 
 **Format:** In-Person and Remote
 
