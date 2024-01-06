@@ -154,6 +154,7 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-[Team 56 NBA Player Data]	(https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
+
+[Team 56 NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
 
 
