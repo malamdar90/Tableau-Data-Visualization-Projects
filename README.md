@@ -19,17 +19,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 # Students Tableau Projects
 
-## Top 3 Projects
-
-1) [Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) (Due to commercial data restrictions, the Tableau file is not accessible to the public)
-
-2) [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
-
-3) [Team 13	Dating App Fame & Behavior Part 1](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
-  [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
-  [Part 3](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-
 ## Top 20 Projects
 
 [Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
@@ -40,6 +29,12 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 
 [Team 7	Diabetes Prediction](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
 
+[Team 13	Dating App Fame & Behavior Part 1](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
+  [Part 2](https://public.tableau.com/views/Team13-CountryAnalysis/CountryAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), 
+  [Part 3](https://public.tableau.com/views/Team13-CorrelationHeatmap/CorrelationHeatmapDB?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) (Due to commercial data restrictions, the Tableau file is not accessible to the public)
+
 [Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 
 [Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -47,6 +42,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
 
 [Team 23 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/yuchun.wu1352/viz/DV7_3Team_23/Team23Story)
+
+[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
 
@@ -66,8 +63,6 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Team 52 US Pollution Data](https://public.tableau.com/views/U_S_AirPollution/AirPollution)
 
 [Team 53 Airbnb Prices in European cities](https://public.tableau.com/app/profile/sawyer.olson/viz/Team53AirbnbFinalProject/AirbnbFinalProject)
-
-[Team 54 Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1)
 
 [Team 55 Prison Population](https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
 
@@ -154,6 +149,8 @@ Teddy Sudewo (tsudewo1@jhu.edu), Tori Tavormina (ttavorm1@jhmi.edu)
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Team 54 Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1)
 
 [Team 56 NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
 
