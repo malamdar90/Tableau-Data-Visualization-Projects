@@ -20,9 +20,7 @@
 
 **Course Description:** This project-based course prepares students to make informed decisions based on data using descriptive-analytical techniques. Students will view examples from real-world business cases in which data visualization helps the decision makers to visualize, discover, and decode the hidden information from within the data, and to exploit such information for making educated decisions. We will use Tableau to import, clean, transform, analyze, visualize, and present data. As the course progresses, students will learn to work with Tableau features such as data connectors, data blending, data preparation, interactive dashboards, and calculations and functions. During the eight weeks of the course, students will collaborate with each other in small teams to analyze real-world datasets as well as design, build, and deliver interactive visualizations and dashboards.
 
-# Students Tableau Projects
-
-## Top 20 Projects
+# Top 20 Students Tableau Projects (out of 56 projects)
 
 [Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
 
