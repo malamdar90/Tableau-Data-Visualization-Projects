@@ -1,6 +1,3 @@
-> ![1690776412593](https://private-user-images.githubusercontent.com/87002822/326539058-33062638-2f0b-49b9-bb03-4998be04eae2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0MTQxMzUsIm5iZiI6MTcxNDQxMzgzNSwicGF0aCI6Ii84NzAwMjgyMi8zMjY1MzkwNTgtMzMwNjI2MzgtMmYwYi00OWI5LWJiMDMtNDk5OGJlMDRlYWUyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI5VDE4MDM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzMGM4NmEzZjg5ODcwNWMyNmJhNTAwYmY3MTJkMTNjYTljYjZmZTNkNjZmYWUyM2NlMDA3Yzk1MjJiNjQ4NjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y2YQ0Iy1ZmsBTMtvADjPLPPKNgwgxoZBeaWPmxpiN1o)
-
-
 # About the Data Visualization Course
 
 **Class:** BU.520.650 Data Visualization
@@ -22,6 +19,9 @@
 **Units:** 2
 
 **Course Description:** This project-based course prepares students to make informed decisions based on data using descriptive-analytical techniques. Students will view examples from real-world business cases in which data visualization helps the decision makers to visualize, discover, and decode the hidden information from within the data, and to exploit such information for making educated decisions. We will use Tableau to import, clean, transform, analyze, visualize, and present data. As the course progresses, students will learn to work with Tableau features such as data connectors, data blending, data preparation, interactive dashboards, and calculations and functions. During the eight weeks of the course, students will collaborate with each other in small teams to analyze real-world datasets as well as design, build, and deliver interactive visualizations and dashboards.
+
+> ![1690776412593](https://private-user-images.githubusercontent.com/87002822/326539058-33062638-2f0b-49b9-bb03-4998be04eae2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0MTQxMzUsIm5iZiI6MTcxNDQxMzgzNSwicGF0aCI6Ii84NzAwMjgyMi8zMjY1MzkwNTgtMzMwNjI2MzgtMmYwYi00OWI5LWJiMDMtNDk5OGJlMDRlYWUyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI5VDE4MDM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzMGM4NmEzZjg5ODcwNWMyNmJhNTAwYmY3MTJkMTNjYTljYjZmZTNkNjZmYWUyM2NlMDA3Yzk1MjJiNjQ4NjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y2YQ0Iy1ZmsBTMtvADjPLPPKNgwgxoZBeaWPmxpiN1o)
+
 
 # Top 20 Students Tableau Projects (out of 56 projects)
 
