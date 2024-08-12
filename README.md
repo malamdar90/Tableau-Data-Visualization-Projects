@@ -184,3 +184,87 @@
 
 [Team 69 Air Quality Part 1](https://public.tableau.com/views/finalproject2_17215718847560/Dashboard_RuipengCao?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 2](https://public.tableau.com/views/finalproject3_17215720747140/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 3](https://public.tableau.com/views/finalproject4_17215721511740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+[Team 70 Global Cost of Living](https://public.tableau.com/app/profile/botao.cao/viz/LivingCostsAnalysis_final/Living_Cost_Analysis?publish=yes)
+
+[Team 71 Adult income dataset](https://public.tableau.com/app/profile/hongjiang.sun/viz/FinalPresentation_Team71/FinalPresentation-Team71?publish=yes)
+
+[Team 72 Education Statistics](https://public.tableau.com/views/Project_17208173986490/ComparisonofeducationalandperformanceinNorthAmericaandAsia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 73 E-Commerce Shipping Data](https://public.tableau.com/app/profile/xinhui.lin4911/viz/E-commerceShippingDataAnalysis_17215100075370/E-commerceShippingData?publish=yes)
+
+[Team 74 US car accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)
+
+[Team 75 Online Sales in USA](data visualization group 75 | Tableau Public)
+
+[Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
+
+[Team 77 Online Sales in USA](https://public.tableau.com/app/profile/shaoning.wang/viz/USOnlineSaleAnalyticsbyGroup77/USOnlineSaleAnalyticsStory)
+
+[Team 78 Airbnb Listing Data](public.tableau.com/app/profile/acyz/viz/Airbnb_17215068746850/Story1)
+
+[Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
+
+[Team 80 Mobile App Statistics](https://public.tableau.com/app/profile/zihao.shen3533/viz/DV_final_group80/Dashboard?publish=yes)
+
+[Team 81 Airbnb Listing Data](https://public.tableau.com/app/profile/qin.lin4970/viz/Finalproject3_17215852133800/RT-Overview?publish=yes)
+
+[Team 82 Ukraine/Russia Conflict Dataset](https://public.tableau.com/app/profile/binjun.jiang/viz/RussiaUkraineConflict/UkraineConflict?publish=yes)
+
+[Team 83 NYPD shooting incident data](https://public.tableau.com/app/profile/sarah.zhai/viz/NYPDShootingHistoricAnalysis_Team83/NYPDShootingHistoricAnalysis)
+
+[Team 84 120 years of Olympic history](https://public.tableau.com/app/profile/peilin.shi/viz/Team84FinalProject/OverallStatistic)
+
+[Team 85 Medical costs personal data](https://public.tableau.com/app/profile/qi.xie3649/viz/finalproject85/InsuranceChargeFactorAnalysis?publish=yes)
+
+[Team 86 Global Internet Users](https://public.tableau.com/app/profile/jian.ji5315/viz/FinalProject_Final_17215094688870/FinalProject?publish=yes)
+
+[Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)
+
+[Team 88 City of Los Angeles crime data](https://public.tableau.com/shared/JYNKSFS68?:display_count=n&:origin=viz_share_link)
+
+[Team 89 Fast Food Restaurants Across America](https://public.tableau.com/app/profile/ying.pei3057/viz/Team89_FastFoodRestruant/Team89_FastFoodRestaurantAnalysis?publish=yes)
+
+[Team 90 Amazon Product Dataset 2020](https://public.tableau.com/views/finalproject_17205754954840/AmazonProductStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 91 GDP Per capita (current US$)](https://public.tableau.com/views/Team91Dashborad/Team91Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 92 Air Quality Time Series Data](https://public.tableau.com/app/profile/yibo.lei/viz/FinalProject_17213555207730/Dashboard1)
+
+[Team 93 Car Sales Data](https://public.tableau.com/views/Carsales_URL/TimeTrend?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 94 Crime In Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
+
+[Team 95 Airbnb Cleaned Europe Dataset](https://public.tableau.com/app/profile/yanan.chi/viz/DVG95groupproject-Airbnb/Story1#1)
+
+[Team 96 HR Analytics: Job Change of Data Scientists](https://public.tableau.com/app/profile/jinny.zhou/viz/HR_Project_96/Dashboard?publish=yes)
+
+[Team 97 Video game sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)
+
+[Team 98 Aviation Accident Database & Synopses, up to 2023](https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)
+
+[Team 99 Google Play Store Dataset](https://public.tableau.com/views/Team99-GooglePlayStoreInsights/Finalstory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 101 NYC Flight delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)
+
+[Team 102 City of Los Angeles crime data](https://public.tableau.com/app/profile/weizhao.cai/viz/718_17214270603940/Story)
+
+[Team 103 Pokemon with stats](https://public.tableau.com/app/profile/yang.fan2879/viz/pokemoncomparison/Pokemon?publish=yes)
+
+[Team 104 Car Models 1899 to 2024](https://public.tableau.com/views/1_17215321656010/1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 105 Coffee distribution](https://public.tableau.com/app/profile/yuwen.li4086/viz/Group105_CoffeeDistributionAcross94Countries/CoffeeDistributionStory?publish=yes)
+
+[Team 106 Health & Income outcomes of OECD & OPEC countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
+
+[Team 107 Olympic Swimming History](https://public.tableau.com/app/profile/ching.yi.hsu/viz/Team107DV/1912-2020OlympicSwimmingGamesAnalysis?publish=yes)
+
+[Team 108 Power consumption in India(2019-2020) Part 1](https://public.tableau.com/app/profile/yuhan.qi/viz/Team108_XiaoxueLi_YuhanQi/AnalysisofElectricityUsageandCarbonEmissionsinIndia?publish=yes), [Part 2](https://public.tableau.com/shared/BW2MQNYCT?:display_count=n&:origin=viz_share_link)
+
+[Team 109 Global Terrorism Database](https://public.tableau.com/app/profile/zuyao.wang/viz/Group109GlobalTerrorism/GlobalTerrorism?publish=yes)
+
+[Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)
+
+[Team 111 YouTube Statistics](https://public.tableau.com/app/profile/yilin.yang/viz/PresentationWorkbook_videos/Story1?publish=yes)
+
