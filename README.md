@@ -158,3 +158,29 @@
 
 [Team 56 NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
 
+[Team 57 City of Los Angeles crime data](https://public.tableau.com/shared/RNTF4XY2T?:display_count=n&:origin=viz_share_link)
+
+[Team 58 Diabetes Health Indicators](https://public.tableau.com/views/BU_520_650_41_SU4GroupProjectFinal/HealthyLivingLeadstoHealthyLife?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 59 College tuition, diversity, and pay](https://public.tableau.com/app/profile/nancy.wang3826/viz/CombinedTableauFile-CBNWJKMHAN/EmpoweringStudentstoMakeBetterCollegeDecisions)
+
+[Team 60 Road Traffic Severity](https://public.tableau.com/views/BU_520_650_41_SU24-Online-Team60/Group60AddisAbabaTrafficStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 61 Kickstarter Projects](https://public.tableau.com/app/profile/gabby.trinh/viz/DataVisualizationProject-Team61-KickstarterFinalStory-BH/KickstarterStory#1)
+
+[Team 62 Novel Corona Virus database](https://public.tableau.com/views/BU_520_650_41_SU24Team62FinalPresentation/PandemicEpicenters?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 63 Covid-19 Global Dataset](https://public.tableau.com/app/profile/stewart.van.horn/viz/Team63FinalProject_17217730572470/SuicideduringCOVID?publish=yes)
+
+[Team 64 US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
+
+[Team 65 120 years of Olympic history](https://public.tableau.com/app/profile/james.cox5689/viz/Team65_FinalProject_DataVisualization_Master_vFinal4/ComprehensiveAnalysisofOlympicPerformance)
+
+[Team 66 Best songs on Spotify](https://public.tableau.com/app/profile/cezarina.scales5399/viz/SpotifyTopSongs-Team66Final/Story1?publish=yes)
+
+[Team 67 Global Cost of Living](https://public.tableau.com/app/profile/michelle.zhao1454/viz/CostofLivingTeam67/GlobalCostofLivingDashboard?publish=yes)
+
+[Team 68 Causes of death globally](https://public.tableau.com/app/profile/rubayet.hossain/viz/maternal_mortality_23july1/Story1)
+
+[Team 69 Air Quality Part 1](https://public.tableau.com/views/finalproject2_17215718847560/Dashboard_RuipengCao?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 2](https://public.tableau.com/views/finalproject3_17215720747140/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 3](https://public.tableau.com/views/finalproject4_17215721511740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
