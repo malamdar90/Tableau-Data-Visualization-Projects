@@ -194,7 +194,7 @@
 
 [Team 74 US car accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)
 
-[Team 75 Online Sales in USA](data visualization group 75 | Tableau Public)
+[Team 75 Online Sales in USA](https://public.tableau.com/app/profile/yuzhong.wang8542/viz/datavisualizationgroup75/Story1?publish=yes)
 
 [Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
 
