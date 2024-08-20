@@ -23,7 +23,17 @@
 
 # Students Tableau Projects
 
-## Top 20 Projects
+## Selected Projects
+[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
+
+[Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)
+
+[Team 88 City of Los Angeles Crime Data](https://public.tableau.com/shared/JYNKSFS68?:display_count=n&:origin=viz_share_link)
+
+[Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)
+
+
+## Noteworthy Projects
 
 [Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
 
@@ -47,7 +57,6 @@
 
 [Team 23 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/yuchun.wu1352/viz/DV7_3Team_23/Team23Story)
 
-[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
 
@@ -74,12 +83,6 @@
 
 [Team 77 Online Sales in USA](https://public.tableau.com/app/profile/shaoning.wang/viz/USOnlineSaleAnalyticsbyGroup77/USOnlineSaleAnalyticsStory)
 
-[Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)
-
-[Team 88 City of Los Angeles Crime Data](https://public.tableau.com/shared/JYNKSFS68?:display_count=n&:origin=viz_share_link)
-
-[Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)
-
 [Team 98 Aviation Accident Database & Synopses, up to 2023](https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)
 
 [Team 99 Google Play Store Dataset](https://public.tableau.com/views/Team99-GooglePlayStoreInsights/Finalstory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -91,7 +94,7 @@
 [Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)
 
 
-## Noteworthy Projects
+## Other Projects
 
 [Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes), 
