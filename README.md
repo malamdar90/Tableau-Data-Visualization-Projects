@@ -226,13 +226,13 @@
 
 [Team 90 Amazon Product Dataset 2020](https://public.tableau.com/views/finalproject_17205754954840/AmazonProductStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 91 GDP per Capita (current US$)](https://public.tableau.com/views/Team91Dashborad/Team91Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 91 GDP per Capita (Current US$)](https://public.tableau.com/views/Team91Dashborad/Team91Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Team 92 Air Quality Time Series Data](https://public.tableau.com/app/profile/yibo.lei/viz/FinalProject_17213555207730/Dashboard1)
 
 [Team 93 Car Sales Data](https://public.tableau.com/views/Carsales_URL/TimeTrend?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 94 Crime In Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
+[Team 94 Crime in Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
 
 [Team 95 Airbnb Cleaned Europe Dataset](https://public.tableau.com/app/profile/yanan.chi/viz/DVG95groupproject-Airbnb/Story1#1)
 
@@ -248,7 +248,7 @@
 
 [Team 101 NYC Flight Delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)
 
-[Team 102 City of Los Angeles crime data](https://public.tableau.com/app/profile/weizhao.cai/viz/718_17214270603940/Story)
+[Team 102 City of Los Angeles Crime Data](https://public.tableau.com/app/profile/weizhao.cai/viz/718_17214270603940/Story)
 
 [Team 103 Pokemon with Stats](https://public.tableau.com/app/profile/yang.fan2879/viz/pokemoncomparison/Pokemon?publish=yes)
 
@@ -256,7 +256,7 @@
 
 [Team 105 Coffee Distribution](https://public.tableau.com/app/profile/yuwen.li4086/viz/Group105_CoffeeDistributionAcross94Countries/CoffeeDistributionStory?publish=yes)
 
-[Team 106 Health & Income outcomes of OECD & OPEC countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
+[Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
 
 [Team 107 Olympic Swimming History](https://public.tableau.com/app/profile/ching.yi.hsu/viz/Team107DV/1912-2020OlympicSwimmingGamesAnalysis?publish=yes)
 
