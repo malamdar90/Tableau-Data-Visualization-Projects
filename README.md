@@ -10,12 +10,12 @@
 
 **Students:** 
 - Summer 2024: Total of 259 MS & MBA Students
-- Summer 2023: Total of 229 MS & MBA Students
 - Fall 2023: 21 Undergrad Students (in BU.667.310 Business Analytics and Statistics course)
-
+- Summer 2023: Total of 229 MS & MBA Students
+- 
 **Format:** In-Person and Remote
 
-**Duration:** 8 Weeks
+**Duration:** 50 Days
 
 **Units:** 2 Credits
 
