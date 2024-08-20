@@ -35,6 +35,10 @@
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
 
+[Team 61 Kickstarter Projects](https://public.tableau.com/app/profile/gabby.trinh/viz/DataVisualizationProject-Team61-KickstarterFinalStory-BH/KickstarterStory#1)
+
+[Team 66 Best songs on Spotify](https://public.tableau.com/app/profile/cezarina.scales5399/viz/SpotifyTopSongs-Team66Final/Story1?publish=yes)
+
 [Team 77 Online Sales in USA](https://public.tableau.com/app/profile/shaoning.wang/viz/USOnlineSaleAnalyticsbyGroup77/USOnlineSaleAnalyticsStory)
 
 [Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)
@@ -188,8 +192,6 @@
 
 [Team 60 Road Traffic Severity](https://public.tableau.com/views/BU_520_650_41_SU24-Online-Team60/Group60AddisAbabaTrafficStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 61 Kickstarter Projects](https://public.tableau.com/app/profile/gabby.trinh/viz/DataVisualizationProject-Team61-KickstarterFinalStory-BH/KickstarterStory#1)
-
 [Team 62 Novel Corona Virus Database](https://public.tableau.com/views/BU_520_650_41_SU24Team62FinalPresentation/PandemicEpicenters?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Team 63 Covid-19 Global Dataset](https://public.tableau.com/app/profile/stewart.van.horn/viz/Team63FinalProject_17217730572470/SuicideduringCOVID?publish=yes)
@@ -197,8 +199,6 @@
 [Team 64 US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
 
 [Team 65 120 Years of Olympic History](https://public.tableau.com/app/profile/james.cox5689/viz/Team65_FinalProject_DataVisualization_Master_vFinal4/ComprehensiveAnalysisofOlympicPerformance)
-
-[Team 66 Best songs on Spotify](https://public.tableau.com/app/profile/cezarina.scales5399/viz/SpotifyTopSongs-Team66Final/Story1?publish=yes)
 
 [Team 67 Global Cost of Living](https://public.tableau.com/app/profile/michelle.zhao1454/viz/CostofLivingTeam67/GlobalCostofLivingDashboard?publish=yes)
 
