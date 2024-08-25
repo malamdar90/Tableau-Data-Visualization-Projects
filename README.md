@@ -12,7 +12,9 @@
 - Fall 2024: Total of 251 MS Students ( Project will be updated in November 2024) 
 - Summer 2024: Total of 203 MS Students
 - Summer 2023: Total of 205 MS Students
-  
+
+**Projects:**: Total of 89 Projects
+
 **Format:** In-Person and Remote
 
 **Duration:** 50 Days
@@ -21,7 +23,7 @@
 
 **Course Description:** This project-based course prepares students to make informed decisions based on data using descriptive-analytical techniques. Students will view examples from real-world business cases in which data visualization helps the decision makers to visualize, discover, and decode the hidden information from within the data, and to exploit such information for making educated decisions. We will use Tableau to import, clean, transform, analyze, visualize, and present data. As the course progresses, students will learn to work with Tableau features such as data connectors, data blending, data preparation, interactive dashboards, and calculations and functions. During the eight weeks of the course, students will collaborate with each other in small teams to analyze real-world datasets as well as design, build, and deliver interactive visualizations and dashboards.
 
-# Students Tableau Projects (total of 89 projects)
+# Students Tableau Projects
 
 ## Selected Projects
 
