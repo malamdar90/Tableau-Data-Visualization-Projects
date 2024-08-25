@@ -9,7 +9,7 @@
 **Instructor:** [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
 
 **Students:** 
-- Fall 2024: Total of 251 MS Students ( Project will be updated in November 2024) 
+- Fall 2024: Total of 251 MS Students (project will be updated in November 2024) 
 - Summer 2024: Total of 203 MS Students
 - Summer 2023: Total of 205 MS Students
 
