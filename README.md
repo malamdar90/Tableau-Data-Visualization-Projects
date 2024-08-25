@@ -11,7 +11,7 @@
 - Summer 2024: Total of 203 MS Students
 - Summer 2023: Total of 205 MS Students
 
-**Projects:**: Total of 89 Projects
+**Projects:** Total of 89 Projects
 
 **Format:** In-Person
 
