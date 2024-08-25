@@ -59,8 +59,19 @@
 
 [Team 68 Causes of Death Globally](https://public.tableau.com/app/profile/rubayet.hossain/viz/maternal_mortality_23july1/Story1)
 
+## Undergraduate Students:
+[Team 52 US Pollution Data](https://public.tableau.com/views/U_S_AirPollution/AirPollution)
 
-## Full-Time Students:
+[Team 53 Airbnb Prices in European cities](https://public.tableau.com/app/profile/sawyer.olson/viz/Team53AirbnbFinalProject/AirbnbFinalProject)
+
+[Team 54 Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1)
+
+[Team 55 Prison Population](https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
+
+[Team 56 NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
+
+
+## Full-Time Master Students:
 
 ## Selected Projects
 
@@ -73,7 +84,6 @@
 [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
 
 [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
-
 
 [Team 77 Online Sales in USA](https://public.tableau.com/app/profile/shaoning.wang/viz/USOnlineSaleAnalyticsbyGroup77/USOnlineSaleAnalyticsStory)
 
@@ -110,13 +120,6 @@
 [Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-
-[Team 52 US Pollution Data](https://public.tableau.com/views/U_S_AirPollution/AirPollution)
-
-[Team 53 Airbnb Prices in European cities](https://public.tableau.com/app/profile/sawyer.olson/viz/Team53AirbnbFinalProject/AirbnbFinalProject)
-
-[Team 55 Prison Population](https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
 
 [Team 74 US Car Accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)
 
@@ -205,12 +208,6 @@
 [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-[Team 54 Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1)
-
-[Team 56 NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
-
-
 
 [Team 69 Air Quality Part 1](https://public.tableau.com/views/finalproject2_17215718847560/Dashboard_RuipengCao?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 2](https://public.tableau.com/views/finalproject3_17215720747140/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 3](https://public.tableau.com/views/finalproject4_17215721511740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
