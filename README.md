@@ -23,6 +23,41 @@
 
 # Students Tableau Projects
 
+## Part-Time Master Students:
+[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking)](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
+
+[Team 47 IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 49	New York City Airbnb Open Data (221) Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Team 50 EV Population Data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Team 57 City of Los Angeles Crime Data](https://public.tableau.com/shared/RNTF4XY2T?:display_count=n&:origin=viz_share_link)
+
+[Team 58 Diabetes Health Indicators](https://public.tableau.com/views/BU_520_650_41_SU4GroupProjectFinal/HealthyLivingLeadstoHealthyLife?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 59 College Tuition, Diversity, and Pay](https://public.tableau.com/app/profile/nancy.wang3826/viz/CombinedTableauFile-CBNWJKMHAN/EmpoweringStudentstoMakeBetterCollegeDecisions)
+
+[Team 60 Road Traffic Severity](https://public.tableau.com/views/BU_520_650_41_SU24-Online-Team60/Group60AddisAbabaTrafficStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 62 Novel Corona Virus Database](https://public.tableau.com/views/BU_520_650_41_SU24Team62FinalPresentation/PandemicEpicenters?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 63 Covid-19 Global Dataset](https://public.tableau.com/app/profile/stewart.van.horn/viz/Team63FinalProject_17217730572470/SuicideduringCOVID?publish=yes)
+
+[Team 64 US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
+
+[Team 65 120 Years of Olympic History](https://public.tableau.com/app/profile/james.cox5689/viz/Team65_FinalProject_DataVisualization_Master_vFinal4/ComprehensiveAnalysisofOlympicPerformance)
+
+[Team 67 Global Cost of Living](https://public.tableau.com/app/profile/michelle.zhao1454/viz/CostofLivingTeam67/GlobalCostofLivingDashboard?publish=yes)
+
+[Team 68 Causes of Death Globally](https://public.tableau.com/app/profile/rubayet.hossain/viz/maternal_mortality_23july1/Story1)
+
+
+## Full-Time Students:
+
 ## Selected Projects
 
 [Team 6	Adidas Sales](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)
@@ -75,9 +110,6 @@
 
 [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 46 AirBnB (U.S. Airbnb Open Data & Hotel Booking)](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
-
-[Team 50 EV Population Data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 52 US Pollution Data](https://public.tableau.com/views/U_S_AirPollution/AirPollution)
 
@@ -171,38 +203,13 @@
 
 [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 47 IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-[Team 48 Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 49	New York City Airbnb Open Data (221) Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
-[Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Team 54 Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1)
 
 [Team 56 NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
 
-[Team 57 City of Los Angeles Crime Data](https://public.tableau.com/shared/RNTF4XY2T?:display_count=n&:origin=viz_share_link)
 
-[Team 58 Diabetes Health Indicators](https://public.tableau.com/views/BU_520_650_41_SU4GroupProjectFinal/HealthyLivingLeadstoHealthyLife?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 59 College Tuition, Diversity, and Pay](https://public.tableau.com/app/profile/nancy.wang3826/viz/CombinedTableauFile-CBNWJKMHAN/EmpoweringStudentstoMakeBetterCollegeDecisions)
-
-[Team 60 Road Traffic Severity](https://public.tableau.com/views/BU_520_650_41_SU24-Online-Team60/Group60AddisAbabaTrafficStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 62 Novel Corona Virus Database](https://public.tableau.com/views/BU_520_650_41_SU24Team62FinalPresentation/PandemicEpicenters?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 63 Covid-19 Global Dataset](https://public.tableau.com/app/profile/stewart.van.horn/viz/Team63FinalProject_17217730572470/SuicideduringCOVID?publish=yes)
-
-[Team 64 US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
-
-[Team 65 120 Years of Olympic History](https://public.tableau.com/app/profile/james.cox5689/viz/Team65_FinalProject_DataVisualization_Master_vFinal4/ComprehensiveAnalysisofOlympicPerformance)
-
-[Team 67 Global Cost of Living](https://public.tableau.com/app/profile/michelle.zhao1454/viz/CostofLivingTeam67/GlobalCostofLivingDashboard?publish=yes)
-
-[Team 68 Causes of Death Globally](https://public.tableau.com/app/profile/rubayet.hossain/viz/maternal_mortality_23july1/Story1)
 
 [Team 69 Air Quality Part 1](https://public.tableau.com/views/finalproject2_17215718847560/Dashboard_RuipengCao?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 2](https://public.tableau.com/views/finalproject3_17215720747140/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 3](https://public.tableau.com/views/finalproject4_17215721511740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
