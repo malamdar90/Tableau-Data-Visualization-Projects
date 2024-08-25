@@ -15,7 +15,7 @@
 
 **Projects:**: Total of 89 Projects
 
-**Format:** In-Person and Remote
+**Format:** In-Person
 
 **Duration:** 50 Days
 
