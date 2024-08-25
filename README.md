@@ -1,7 +1,5 @@
 # About the BU.520.650 Data Visualization Course - In-Person Version
 
-**Class:**  Data Visualization
-
 **School:** Johns Hopkins Carey Business School
 
 **Location:** Washington DC
