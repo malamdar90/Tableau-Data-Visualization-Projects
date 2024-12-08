@@ -45,8 +45,6 @@
 
 [Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 117](https://public.tableau.com/app/profile/jiale.zhu4954/viz/CSGOAnalysis_FinalVersion/Story1)
-
 [Team 118](https://public.tableau.com/app/profile/xuanyi.zhu/viz/118-finalIndiaAgricultureCropProduction_17292701456770/Bookcover)
 
 [Team 123](https://public.tableau.com/app/profile/qiutong.ye/viz/WineTastingOverview_Team123/Summary?publish=yes)
@@ -94,6 +92,16 @@
 [Team 101 NYC Flight Delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)
 
 [Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)
+
+[Team 121](https://public.tableau.com/app/profile/chenjing.liu/viz/GlobalPovertyInequalityTeam121Final/GlobalPovertyInequality?publish=yes)
+
+[Team 131](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)
+
+[Team 150](https://public.tableau.com/app/profile/meiyi.chen/viz/DVFinalProject_team150/RETAININGUKMARKETEXPLORINGOVERSEASOPPORTUNITIES?publish=yes)
+
+[Team 156](https://public.tableau.com/app/profile/xiaochang.chen/viz/CreditRiskAnalysisGroup156/Overview?publish=yes)
+
+[Team 167](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)
 
 
 ## Other Projects
@@ -239,11 +247,11 @@
 
 [Team 111 YouTube Statistics](https://public.tableau.com/app/profile/yilin.yang/viz/PresentationWorkbook_videos/Story1?publish=yes)
 
+[Team 117](https://public.tableau.com/app/profile/jiale.zhu4954/viz/CSGOAnalysis_FinalVersion/Story1)
+
 [Team 119](https://public.tableau.com/views/BarcelonaAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Team 120](https://public.tableau.com/app/profile/xinyi.lu8284/viz/NYPDShootingIncident-Group120/NYPDShootingIncident?publish=yes)
-
-[Team 121](https://public.tableau.com/app/profile/chenjing.liu/viz/GlobalPovertyInequalityTeam121Final/GlobalPovertyInequality?publish=yes)
 
 [Team 122](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
 
@@ -256,10 +264,7 @@
 
 [Team 128](https://public.tableau.com/app/profile/manman.wei/viz/100AcceleratorsPortfolioUSStartups2009-2019/Story2?publish=yes)
 
-
 [Team 130](https://public.tableau.com/shared/KRSDSFHD7?:display_count=n&:origin=viz_share_link)
-
-[Team 131](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)
 
 [Team 132](https://public.tableau.com/app/profile/yanming.zhang/viz/WineDatasetTeam132/Wine?publish=yes)
 
@@ -295,8 +300,6 @@
 
 [Team 149](https://public.tableau.com/views/FinalProject_17294701310820/U_S_Birth?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 150](https://public.tableau.com/app/profile/meiyi.chen/viz/DVFinalProject_team150/RETAININGUKMARKETEXPLORINGOVERSEASOPPORTUNITIES?publish=yes)
-
 [Team 152](https://public.tableau.com/shared/J6PCBP9PQ?:display_count=n&:origin=viz_share_link)
 
 [Team 153](https://public.tableau.com/app/profile/boning.chu/viz/Final-11/Storytelling)
@@ -304,8 +307,6 @@
 [Team 154](https://public.tableau.com/app/profile/shengyi.xu/viz/projectdv_17292012463960/Story1#1)
 
 [Team 155](https://public.tableau.com/app/profile/jingyi.sun8064/viz/shared/HK9WY7KDQ)
-
-[Team 156](https://public.tableau.com/app/profile/xiaochang.chen/viz/CreditRiskAnalysisGroup156/Overview?publish=yes)
 
 [Team 157](https://public.tableau.com/views/Team157-IndianAviationMarketAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -324,8 +325,6 @@
 [Team 165](https://public.tableau.com/app/profile/ziyao.wang7216/viz/CO2EmissionReport_17293509489080/CO2EmissionReport?publish=yes)
 
 [Team 166](https://public.tableau.com/views/Usbirthdatastory/Story1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 167](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)
 
 [Team 168](https://public.tableau.com/views/Group168Groupwork/AppStoreInsights?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
