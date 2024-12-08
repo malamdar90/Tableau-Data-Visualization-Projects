@@ -93,15 +93,15 @@
 
 [Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)
 
-[Team 121](https://public.tableau.com/app/profile/chenjing.liu/viz/GlobalPovertyInequalityTeam121Final/GlobalPovertyInequality?publish=yes)
+[Team 121 Global Poverty & Inequality](https://public.tableau.com/app/profile/chenjing.liu/viz/GlobalPovertyInequalityTeam121Final/GlobalPovertyInequality?publish=yes)
 
-[Team 131](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)
+[Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)
 
-[Team 150](https://public.tableau.com/app/profile/meiyi.chen/viz/DVFinalProject_team150/RETAININGUKMARKETEXPLORINGOVERSEASOPPORTUNITIES?publish=yes)
+[Team 150 Retaining UK Market](https://public.tableau.com/app/profile/meiyi.chen/viz/DVFinalProject_team150/RETAININGUKMARKETEXPLORINGOVERSEASOPPORTUNITIES?publish=yes)
 
-[Team 156](https://public.tableau.com/app/profile/xiaochang.chen/viz/CreditRiskAnalysisGroup156/Overview?publish=yes)
+[Team 156 Credit Risk Analysis](https://public.tableau.com/app/profile/xiaochang.chen/viz/CreditRiskAnalysisGroup156/Overview?publish=yes)
 
-[Team 167](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)
+[Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)
 
 
 ## Other Projects
