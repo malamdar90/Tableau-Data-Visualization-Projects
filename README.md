@@ -45,17 +45,17 @@
 
 [Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 118](https://public.tableau.com/app/profile/xuanyi.zhu/viz/118-finalIndiaAgricultureCropProduction_17292701456770/Bookcover)
+[Team 118 Indian Crops Production](https://public.tableau.com/app/profile/xuanyi.zhu/viz/118-finalIndiaAgricultureCropProduction_17292701456770/Bookcover)
 
-[Team 123](https://public.tableau.com/app/profile/qiutong.ye/viz/WineTastingOverview_Team123/Summary?publish=yes)
+[Team 123 Wine Testing](https://public.tableau.com/app/profile/qiutong.ye/viz/WineTastingOverview_Team123/Summary?publish=yes)
 
-[Team 124](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 129](https://public.tableau.com/app/profile/zhang.zhongshi/viz/Team129projectfinal/Start?publish=yes)
+[Team 129 Global Salary](https://public.tableau.com/app/profile/zhang.zhongshi/viz/Team129projectfinal/Start?publish=yes)
 
-[Team 151](https://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 151 Crash Analysis in Maryland](https://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 163](https://public.tableau.com/app/profile/jingxuan.jia6709/viz/SephoraProductsAnalysis/SephoraProductsAnalysis?publish=yes)
+[Team 163 Sephora](https://public.tableau.com/app/profile/jingxuan.jia6709/viz/SephoraProductsAnalysis/SephoraProductsAnalysis?publish=yes)
 
 
 ## Noteworthy Projects
