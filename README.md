@@ -24,11 +24,6 @@
 
 # Students Tableau Projects
 
-
-
-
-## Other Projects
-
  **Air Quality & Environment**
 - [Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes), 
