@@ -103,7 +103,7 @@
 - [Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
 
 **Aviation & Flight Data**
-- **[Team 98 Aviation Accident Database & Synopses, up to 2023]**(https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)
+- **[Team 98 Aviation Accident Database & Synopses, up to 2023](https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)**
 - **[Team 101 NYC Flight Delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)**
 - [Team 126 Flight Price Prediction](https://public.tableau.com/app/profile/sitong.zhou2895/viz/FlightPricePrediction--Team126/Story1?publish=yes)
 - [Team 146 India Domestic Airlines: Price Analysis](https://public.tableau.com/app/profile/zizhen.wang/viz/Projectfinal_17294726554640/3?publish=yes)
