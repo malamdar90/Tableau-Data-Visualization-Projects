@@ -25,21 +25,10 @@
 # Students Tableau Projects
 
 ## Selected Projects
-[Team 13 Dating App Fame & Behavior](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
-
-[Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
-
-[Team 77 Online Sales in USA](https://public.tableau.com/app/profile/shaoning.wang/viz/USOnlineSaleAnalyticsbyGroup77/USOnlineSaleAnalyticsStory)
 
 [Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)
 
 [Team 88 City of Los Angeles Crime Data](https://public.tableau.com/shared/JYNKSFS68?:display_count=n&:origin=viz_share_link)
-
-[Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)
-
-[Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Team 118 Indian Crops Production](https://public.tableau.com/app/profile/xuanyi.zhu/viz/118-finalIndiaAgricultureCropProduction_17292701456770/Bookcover)
 
@@ -47,16 +36,10 @@
 
 [Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 129 Global Salary](https://public.tableau.com/app/profile/zhang.zhongshi/viz/Team129projectfinal/Start?publish=yes)
-
 [Team 151 Crash Analysis in Maryland](https://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 163 Sephora](https://public.tableau.com/app/profile/jingxuan.jia6709/viz/SephoraProductsAnalysis/SephoraProductsAnalysis?publish=yes)
 
 
 ## Noteworthy Projects
-
-[Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
 
 [Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
 
@@ -64,25 +47,7 @@
 
 [Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
-
-
-[Team 35 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1)
-
-
-[Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
 [Team 74 US Car Accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)
-
-[Team 98 Aviation Accident Database & Synopses, up to 2023](https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)
-
-[Team 99 Google Play Store Dataset](https://public.tableau.com/views/Team99-GooglePlayStoreInsights/Finalstory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 101 NYC Flight Delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)
-
-[Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)
-
-[Team 121 Global Poverty & Inequality](https://public.tableau.com/app/profile/chenjing.liu/viz/GlobalPovertyInequalityTeam121Final/GlobalPovertyInequality?publish=yes)
 
 [Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)
 
@@ -109,7 +74,7 @@
 
 **Education & University Rankings**
 - [Team 10 Students Exam Scores: Extended Dataset](https://public.tableau.com/views/Exam_Score_Team10/DetailsofExamPerformance?:language=zh-CN&:display_count=n&:origin=viz_share_link)
-- [Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
+- **[Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)**
 - [Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Team 72 Education Statistics](https://public.tableau.com/views/Project_17208173986490/ComparisonofeducationalandperformanceinNorthAmericaandAsia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -127,8 +92,8 @@
 **Movies, TV Shows & Video Games**
 - [Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
 - [Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
-- [Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)
-- [Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **[Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)**
+- **[Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - [Team 143 Movie Popularity Analysis](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Health & Medical**
@@ -138,8 +103,8 @@
 - [Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
 
 **Aviation & Flight Data**
-- [Team 98 Aviation Accident Database & Synopses, up to 2023](https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)
-- [Team 101 NYC Flight Delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)
+- **[Team 98 Aviation Accident Database & Synopses, up to 2023]**(https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)
+- **[Team 101 NYC Flight Delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)**
 - [Team 126 Flight Price Prediction](https://public.tableau.com/app/profile/sitong.zhou2895/viz/FlightPricePrediction--Team126/Story1?publish=yes)
 - [Team 146 India Domestic Airlines: Price Analysis](https://public.tableau.com/app/profile/zizhen.wang/viz/Projectfinal_17294726554640/3?publish=yes)
 - [Team 157 Indian Aviation Market Analysis](https://public.tableau.com/views/Team157-IndianAviationMarketAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -148,22 +113,22 @@
 - [Team 9	E-Commerce Sales Dataset](https://public.tableau.com/views/Team9_16903057124830/AnalyzeAmazonE-CommerceinIndia?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 73 E-Commerce Shipping Data](https://public.tableau.com/app/profile/xinhui.lin4911/viz/E-commerceShippingDataAnalysis_17215100075370/E-commerceShippingData?publish=yes)
 - [Team 75 Online Sales in USA](https://public.tableau.com/app/profile/yuzhong.wang8542/viz/datavisualizationgroup75/Story1?publish=yes)
-- [Team 77 Online Sales in USA](https://public.tableau.com/app/profile/shaoning.wang/viz/USOnlineSaleAnalyticsbyGroup77/USOnlineSaleAnalyticsStory)
+- **[Team 77 Online Sales in USA](https://public.tableau.com/app/profile/shaoning.wang/viz/USOnlineSaleAnalyticsbyGroup77/USOnlineSaleAnalyticsStory)**
 - [Team 90 Amazon Product Dataset 2020](https://public.tableau.com/views/finalproject_17205754954840/AmazonProductStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 127 E-Commerce Analysis](https://public.tableau.com/app/profile/zhifeng.yu4027/viz/e-commerceanalysis_17294796250090/Story?publish=yes)
 - [Team 161 E-Commerce Transaction Analysis](https://public.tableau.com/app/profile/yandong.zhang7772/viz/Team161E-CommerceTransactionAnalysis/Overview?publish=yes)
 
 **Employment & Salaries**
-- [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- **[Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 - [Team 71 Adult Income Dataset](https://public.tableau.com/app/profile/hongjiang.sun/viz/FinalPresentation_Team71/FinalPresentation-Team71?publish=yes)
 - [Team 96 HR Analytics: Job Change of Data Scientists](https://public.tableau.com/app/profile/jinny.zhou/viz/HR_Project_96/Dashboard?publish=yes)
-- [Team 129 Global Salary](https://public.tableau.com/app/profile/zhang.zhongshi/viz/Team129projectfinal/Start?publish=yes)
+- **[Team 129 Global Salary](https://public.tableau.com/app/profile/zhang.zhongshi/viz/Team129projectfinal/Start?publish=yes)**
 
 **Finance & Banking**
 - [Team 26 Credit Card Spend Analysis](https://public.tableau.com/app/profile/xuan.wang3756/viz/Team26-IndiaCreditCardSpendAnalysis/IndiaCreditCardAnalysisStory#2)
 - [Team 28 Lending Club Loan Dataset](https://public.tableau.com/views/Team28LoanStatusAnalysis/IncomeLevelisNotTheOnlyFactorOurGradingSystemisRelativelyAccurate?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 42 Credit Card Dataset for Clustering](https://public.tableau.com/views/DV_draft2/DataOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- [Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)
+- **[Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)**
 - [Team 158 Marketing Campaigns in Portuguese Bank](https://public.tableau.com/app/profile/ziming.huang3421/viz/DataProject_17281013527890/Story1?publish=yes)
 - [Team 164 Credit Card Data Analysis](https://public.tableau.com/app/profile/wenze.zhao/viz/Prediction2_17294363621230/CreditCardDefaultAnalysis?publish=yes)
 
@@ -179,19 +144,18 @@
 
 
 **Consumer Products & Market Trends**
-- [Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)
-**- [Team 6	Adidas Sales](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)**
+- **[Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)**
+- **[Team 6	Adidas Sales](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)**
 - [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
 - [Team 89 Fast Food Restaurants Across America](https://public.tableau.com/app/profile/ying.pei3057/viz/Team89_FastFoodRestruant/Team89_FastFoodRestaurantAnalysis?publish=yes)
 - [Team 93 Car Sales Data](https://public.tableau.com/views/Carsales_URL/TimeTrend?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 104 Car Models 1899 to 2024](https://public.tableau.com/views/1_17215321656010/1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 154 Car Sales Analysis](https://public.tableau.com/app/profile/shengyi.xu/viz/projectdv_17292012463960/Story1#1)
-- [Team 163 Sephora](https://public.tableau.com/app/profile/jingxuan.jia6709/viz/SephoraProductsAnalysis/SephoraProductsAnalysis?publish=yes)
+- **[Team 163 Sephora](https://public.tableau.com/app/profile/jingxuan.jia6709/viz/SephoraProductsAnalysis/SephoraProductsAnalysis?publish=yes)**
 
 
 **Sports & Gaming**
-- [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
-**- [Team 11 eSports Earnings]**(https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
+- [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)- **[Team 11 eSports Earnings]**(https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
 - [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 41 NBA Player Data](https://public.tableau.com/app/profile/zhichen.zhang1850/viz/Project_16892563432140/NBADataAnalysis?publish=yes)
 - [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -201,7 +165,7 @@
 
 **Global Economy & Trade**
 - [Team 91 GDP per Capita (Current US$)](https://public.tableau.com/views/Team91Dashborad/Team91Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Team 121 Global Poverty & Inequality](https://public.tableau.com/app/profile/chenjing.liu/viz/GlobalPovertyInequalityTeam121Final/GlobalPovertyInequality?publish=yes)
+- **[Team 121 Global Poverty & Inequality](https://public.tableau.com/app/profile/chenjing.liu/viz/GlobalPovertyInequalityTeam121Final/GlobalPovertyInequality?publish=yes)**
 - [Team 134 World Emission Overview](https://public.tableau.com/app/profile/boduo.lin/viz/Team134final/Story1#1)
 - [Team 140 Fuel Exports](https://public.tableau.com/app/profile/louise.ju.yin.lee6833/viz/amazingprojectprefinal/HomePage?publish=yes)
 - [Team 144 Export of Goods and Services](https://public.tableau.com/app/profile/luna.liu/viz/da_17261484599280/Story1?publish=yes)
@@ -209,21 +173,21 @@
 **Customer Satisfaction & Business Analytics**
 - [Team 12 Airline Passenger Satisfaction Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionVariablesExploration/AirlinePassengerSatisfactionVariableExploration?publish=yes)
-- [Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)
-- [Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)
+- **[Team 25 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/kshitiz.shah/viz/AirlinePassengerSatisfactionTeam25Hopkins/Services?publish=yes)**
+- **[Team 27 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/yuzhu.wang/viz/FinalProject_dashboard/AirlinePassengerSatisfactionAnalysis?publish=yes)**
 - [Team 32 Airline Passenger Satisfaction](https://public.tableau.com/views/Airline_Final_Project_16898878870150/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- [Team 35 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1)
+- **[Team 35 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1)**
 - [Team 44	121 Airline Passenger Satisfaction	Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
 [Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
 - [Team 135 Customer Base Global Retail Bank](https://public.tableau.com/app/profile/rui.hong/viz/Team135-Customerbaseglobalretailbank/Dashboard6)
 
 **Miscellaneous**
 - [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
-- [Team 13 Dating App Fame & Behavior](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- **[Team 13 Dating App Fame & Behavior](https://public.tableau.com/views/Team13-UserAgeAnalysis/Team13-UserAgeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 - [Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
 - [Team 80 Mobile App Statistics](https://public.tableau.com/app/profile/zihao.shen3533/viz/DV_final_group80/Dashboard?publish=yes)
 - [Team 82 Ukraine/Russia Conflict Dataset](https://public.tableau.com/app/profile/binjun.jiang/viz/RussiaUkraineConflict/UkraineConflict?publish=yes)
-- [Team 99 Google Play Store Dataset](https://public.tableau.com/views/Team99-GooglePlayStoreInsights/Finalstory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **[Team 99 Google Play Store Dataset](https://public.tableau.com/views/Team99-GooglePlayStoreInsights/Finalstory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - [Team 168 App Store Insight](https://public.tableau.com/views/Group168Groupwork/AppStoreInsights?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
