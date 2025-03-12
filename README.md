@@ -65,8 +65,6 @@
 
 [Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
 
-[Team 7	Diabetes Prediction](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
-
 [Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) (Due to commercial data restrictions, the Tableau file is not accessible to the public)
 
 [Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -153,15 +151,36 @@
 **Movies, TV Shows & Video Games**
 
 - [Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
-- 
+  
 - [Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
-- 
+  
 - [Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)
 
 - [Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - [Team 143 Movie Popularity Analysis](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
+
+
+**Health & Medical**
+- [Team 7	Diabetes Prediction](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
+- [Team 22 Personal Key Indicator of Heart Disease](https://public.tableau.com/views/Group_22_Final_Project/DiseaseRelatedHealthCondition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Team 85 Medical Costs Personal Data](https://public.tableau.com/app/profile/qi.xie3649/viz/finalproject85/InsuranceChargeFactorAnalysis?publish=yes)
+- [Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
+
+
+**Aviation & Flight Data**
+- [Team 98 Aviation Accident Database & Synopses, up to 2023](https://public.tableau.com/app/profile/chuyu.li2042/viz/FinalVersion_17209866600580/AviationAccidentDatabaseAnalysis)
+
+- [Team 101 NYC Flight Delays](https://public.tableau.com/app/profile/yitian.mao/viz/NYCFlightDelayAnalysis/NYCFlightDelayAnalysis)
+
+- [Team 126 Flight Price Prediction](https://public.tableau.com/app/profile/sitong.zhou2895/viz/FlightPricePrediction--Team126/Story1?publish=yes)
+
+- [Team 146 India Domestic Airlines: Price Analysis](https://public.tableau.com/app/profile/zizhen.wang/viz/Projectfinal_17294726554640/3?publish=yes)
+
+- [Team 157 Indian Aviation Market Analysis](https://public.tableau.com/views/Team157-IndianAviationMarketAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
   
 [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
 
@@ -181,8 +200,6 @@
 [Team 18 USA Real Estate Dataset](https://public.tableau.com/app/profile/zifan.xu3168/viz/DV_FinalProject_FinalVersion/Whereandhowtochooseyourhouse?publish=yes)
 
 [Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
-
-[Team 22 Personal Key Indicator of Heart Disease](https://public.tableau.com/views/Group_22_Final_Project/DiseaseRelatedHealthCondition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
@@ -245,8 +262,6 @@
 
 [Team 84 120 Years of Olympic History](https://public.tableau.com/app/profile/peilin.shi/viz/Team84FinalProject/OverallStatistic)
 
-[Team 85 Medical Costs Personal Data](https://public.tableau.com/app/profile/qi.xie3649/viz/finalproject85/InsuranceChargeFactorAnalysis?publish=yes)
-
 [Team 86 Global Internet Users](https://public.tableau.com/app/profile/jian.ji5315/viz/FinalProject_Final_17215094688870/FinalProject?publish=yes)
 
 [Team 89 Fast Food Restaurants Across America](https://public.tableau.com/app/profile/ying.pei3057/viz/Team89_FastFoodRestruant/Team89_FastFoodRestaurantAnalysis?publish=yes)
@@ -271,8 +286,6 @@
 
 [Team 105 Coffee Distribution](https://public.tableau.com/app/profile/yuwen.li4086/viz/Group105_CoffeeDistributionAcross94Countries/CoffeeDistributionStory?publish=yes)
 
-[Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
-
 [Team 107 Olympic Swimming History](https://public.tableau.com/app/profile/ching.yi.hsu/viz/Team107DV/1912-2020OlympicSwimmingGamesAnalysis?publish=yes)
 
 [Team 108 Power Consumption in India(2019-2020) Part 1](https://public.tableau.com/app/profile/yuhan.qi/viz/Team108_XiaoxueLi_YuhanQi/AnalysisofElectricityUsageandCarbonEmissionsinIndia?publish=yes)
@@ -289,8 +302,6 @@
 [Team 122 Ski Resort](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
 
 [Team 125 US Unemployment and Education Level](https://public.tableau.com/views/USUnemploymentEducationLevel/USUnemploymentEducationLevel?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 126 Flight Price Prediction](https://public.tableau.com/app/profile/sitong.zhou2895/viz/FlightPricePrediction--Team126/Story1?publish=yes)
 
 [Team 127 E-Commerce Analysis](https://public.tableau.com/app/profile/zhifeng.yu4027/viz/e-commerceanalysis_17294796250090/Story?publish=yes)
 
@@ -319,7 +330,6 @@
 
 [Team 145 Ski Resort](https://public.tableau.com/views/FinalProject_SkiResort/SkiResort?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 146 India Domestic Airlines: Price Analysis](https://public.tableau.com/app/profile/zizhen.wang/viz/Projectfinal_17294726554640/3?publish=yes)
 
 [Team 147 Superstore Analysis](https://public.tableau.com/views/Group147Project1_17281814873700/Supermarket?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -333,7 +343,7 @@
 
 [Team 154 Car Sales Analysis](https://public.tableau.com/app/profile/shengyi.xu/viz/projectdv_17292012463960/Story1#1)
 
-[Team 157 Indian Aviation Market Analysis](https://public.tableau.com/views/Team157-IndianAviationMarketAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 [Team 158 Marketing Campaigns in Portuguese Bank](https://public.tableau.com/app/profile/ziming.huang3421/viz/DataProject_17281013527890/Story1?publish=yes)
 
