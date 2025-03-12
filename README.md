@@ -189,7 +189,7 @@
 
 [Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
 
-[Team 78 Airbnb Listing Data](public.tableau.com/app/profile/acyz/viz/Airbnb_17215068746850/Story1)
+[Team 78 Airbnb Listing Data](https://public.tableau.com/app/profile/acyz/viz/Airbnb_17215068746850/Story1)
 
 [Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
 
