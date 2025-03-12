@@ -1,3 +1,4 @@
+
 # About the BU.520.650 Data Visualization Course - In-Person Version
 
 **School:** Johns Hopkins Carey Business School
@@ -104,126 +105,216 @@
 [Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)
 
 
-## All Projects
+## Other Projects
 
-## **Air Quality & Environment**
-- [Team 1 World Air Quality Index](#)
-- [Team 43 World Air Quality Index](#)
-- [Team 69 Air Quality](#)
-- [Team 51 Bees & Pesticides](#)
-- [Team 165 How Green is Your Neighbourhood?](#)
+[Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
+  [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes), 
+  [Part 3](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard3/Dashboard3?publish=yes), 
+  [Part 4](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard4/Dashboard4?publish=yes), 
+  [Part 5](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard5/Dashboard5?publish=yes")
 
-## **Education & University Rankings**
-- [Team 19 World University Ranking](#)
-- [Team 38 University Rankings](#)
-- [Team 160 University Ranking Analysis](#)
-- [Team 72 Education Statistics](#)
+[Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
 
-## **Crime & Safety**
-- [Team 102 City of Los Angeles Crime Data](#)
-- [Team 120 NYPD Shooting Incident](#)
-- [Team 137 Crimes of Marijuana in Columbia](#)
-- [Team 23 Crime Data from 2020 to Present](#)
-- [Team 37 Crime Data from 2020 to Present](#)
-- [Team 83 NYPD Shooting Incident Data](#)
-- [Team 94 Crime in Baltimore](#)
+[Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## **Movies, TV Shows & Video Games**
-- [Team 100 Netflix Movies and TV Shows](#)
-- [Team 143 Movie Popularity Analysis](#)
-- [Team 79 Netflix Movies and TV Shows](#)
-- [Team 76 Top Video Games](#)
-- [Team 97 Video Game Sales](#)
+[Team 9	E-Commerce Sales Dataset](https://public.tableau.com/views/Team9_16903057124830/AnalyzeAmazonE-CommerceinIndia?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## **Health & Medical**
-- [Team 106 Health & Income Outcomes](#)
-- [Team 22 Personal Key Indicator of Heart Disease](#)
-- [Team 7 Diabetes Prediction](#)
-- [Team 85 Medical Costs Personal Data](#)
+[Team 10 Students Exam Scores: Extended Dataset](https://public.tableau.com/views/Exam_Score_Team10/DetailsofExamPerformance?:language=zh-CN&:display_count=n&:origin=viz_share_link)
 
-## **Aviation & Flight Data**
-- [Team 101 NYC Flight Delays](#)
-- [Team 126 Flight Price Prediction](#)
-- [Team 146 India Domestic Airlines: Price Analysis](#)
-- [Team 157 Indian Aviation Market Analysis](#)
-- [Team 98 Aviation Accident Database](#)
+[Team 12 Airline Passenger Satisfaction Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
+  [Part 2](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionVariablesExploration/AirlinePassengerSatisfactionVariableExploration?publish=yes)
 
-## **E-Commerce & Online Sales**
-- [Team 127 E-Commerce Analysis](#)
-- [Team 161 E-Commerce Transaction Analysis](#)
-- [Team 73 E-Commerce Shipping Data](#)
-- [Team 9 E-Commerce Sales Dataset](#)
-- [Team 75 Online Sales in USA](#)
-- [Team 77 Online Sales in USA](#)
-- [Team 90 Amazon Product Dataset](#)
+[Team 15 New York City Airbnb Open Data](https://public.tableau.com/views/Group15_16898776937640/Whatfactorshaveimpactsonairbnbprice?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## **Employment & Salaries**
-- [Team 129 Global Salary](#)
-- [Team 40 Data Science Salaries 2023](#)
-- [Team 71 Adult Income Dataset](#)
-- [Team 96 HR Analytics](#)
+[Team 16 Avocado Prices](https://public.tableau.com/views/AvocadoPricesStory/AvocadoPrices?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## **Finance & Banking**
-- [Team 110 Credit Card Churn Prediction](#)
-- [Team 26 Credit Card Spend Analysis](#)
-- [Team 42 Credit Card Dataset for Clustering](#)
-- [Team 164 Credit Card Data Analysis](#)
-- [Team 158 Marketing Campaigns in Portuguese Bank](#)
-- [Team 28 Lending Club Loan Dataset](#)
+[Team 18 USA Real Estate Dataset](https://public.tableau.com/app/profile/zifan.xu3168/viz/DV_FinalProject_FinalVersion/Whereandhowtochooseyourhouse?publish=yes)
 
-## **Real Estate & Housing**
-- [Team 18 USA Real Estate Dataset](#)
-- [Team 138 Real Estate Market in India's Major Cities](#)
-- [Team 15 NYC Airbnb Open Data](#)
-- [Team 29 NYC Airbnb Open Data](#)
-- [Team 4 NYC Airbnb Open Data](#)
-- [Team 78 Airbnb Listing Data](#)
-- [Team 81 Airbnb Listing Data](#)
-- [Team 95 Airbnb Cleaned Europe Dataset](#)
+[Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
 
-## **Consumer Products & Market Trends**
-- [Team 2 Adidas Sales](#)
-- [Team 39 Adidas Sales Dataset](#)
-- [Team 6 Adidas Sales](#)
-- [Team 163 Sephora](#)
-- [Team 89 Fast Food Restaurants](#)
-- [Team 93 Car Sales Data](#)
-- [Team 154 Car Sales Analysis](#)
-- [Team 104 Car Models 1899 to 2024](#)
+[Team 22 Personal Key Indicator of Heart Disease](https://public.tableau.com/views/Group_22_Final_Project/DiseaseRelatedHealthCondition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## **Sports & Gaming**
-- [Team 8 NBA Player Data](#)
-- [Team 24 NBA Players](#)
-- [Team 41 NBA Player Data](#)
-- [Team 45 NBA Players](#)
-- [Team 107 Olympic Swimming History](#)
-- [Team 84 Olympic History](#)
-- [Team 11 eSports Earnings](#)
-- [Team 117 CSGO Analysis](#)
+[Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## **Global Economy & Trade**
-- [Team 121 Global Poverty & Inequality](#)
-- [Team 134 World Emission Overview](#)
-- [Team 140 Fuel Exports](#)
-- [Team 144 Export of Goods and Services](#)
-- [Team 91 GDP per Capita](#)
+[Team 26 Credit Card Spend Analysis](https://public.tableau.com/app/profile/xuan.wang3756/viz/Team26-IndiaCreditCardSpendAnalysis/IndiaCreditCardAnalysisStory#2)
 
-## **Customer Satisfaction & Business Analytics**
-- [Team 25 Airline Passenger Satisfaction](#)
-- [Team 27 Airline Passenger Satisfaction](#)
-- [Team 32 Airline Passenger Satisfaction](#)
-- [Team 35 Airline Passenger Satisfaction](#)
-- [Team 44 Airline Passenger Satisfaction](#)
-- [Team 12 Airline Passenger Satisfaction](#)
-- [Team 135 Customer Base Global Retail Bank](#)
+[Team 28 Lending Club Loan Dataset](https://public.tableau.com/views/Team28LoanStatusAnalysis/IncomeLevelisNotTheOnlyFactorOurGradingSystemisRelativelyAccurate?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
-## **Miscellaneous**
-- [Team 20 Covid-19 Data](#)
-- [Team 82 Ukraine/Russia Conflict Dataset](#)
-- [Team 13 Dating App Fame & Behavior](#)
-- [Team 168 App Store Insight](#)
-- [Team 3 Google Play Store](#)
-- [Team 99 Google Play Store Dataset](#)
-- [Team 80 Mobile App Statistics](#)
+[Team 29 New York City Airbnb Open Data](https://public.tableau.com/app/profile/shuo.zhang6571/viz/DV_FinalProject_16902389571030/AirbnbStory?publish=yes)
 
+[Team 30 Company Bankruptcy Prediction](https://public.tableau.com/views/CompanyBankruptcy7_21_1/Dashboard?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 31 IMDB Movies Dataset](https://public.tableau.com/views/Datavisualization_IMDB_Group_31_Final/ItisbettertoproducedocumentarygenreandJuneandDecemberarebettertimetoreleaseMovie?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 32 Airline Passenger Satisfaction](https://public.tableau.com/views/Airline_Final_Project_16898878870150/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 33 IBM HR Analytics Employee Attrition & Performance](https://public.tableau.com/app/profile/jingxi.zhao/viz/DV_Project_final_Group33/IBMHRAnalyticsEmployeeAttritionPerformance?publish=yes)
+
+[Team 34 Walmart Dataset](https://public.tableau.com/app/profile/gaoya.zhao/viz/Group34-WalmartDataset-SalesandEconomicFactors/EcononicFactorsandSalesDashboard#1)
+
+[Team 36	Investors in China Part 1](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Top5FundsBasedonNumericIndices?publish=yes), 
+[Part 2](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/CorrelationsAmongNumericIndices?publish=yes), 
+[Part 3](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/FundClusteringAnalysis?publish=yes), 
+[Part 4](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/InvestmentMap?publish=yes), 
+[Part 5](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ExitMap?publish=yes), 
+[Part 6](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ExitRatioExploration?publish=yes), 
+[Part 7](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Co-impactsofInvestmentStageandInvestorTypeonNumberofExits?publish=yes), 
+[Part 8](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ActiveLevelRankbyCountryRegion)
+
+[Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
+
+[Team 41 NBA Player Data](https://public.tableau.com/app/profile/zhichen.zhang1850/viz/Project_16892563432140/NBADataAnalysis?publish=yes)
+
+[Team 42 Credit Card Dataset for Clustering](https://public.tableau.com/views/DV_draft2/DataOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 43 World Air Quality Index by City and Coordinates](https://public.tableau.com/views/Team43Final_16899951031240/AirQualityIndexValueofCountries?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Team 44	121 Airline Passenger Satisfaction	Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
+[Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
+
+[Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Team 69 Air Quality Part 1](https://public.tableau.com/views/finalproject2_17215718847560/Dashboard_RuipengCao?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 2](https://public.tableau.com/views/finalproject3_17215720747140/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 3](https://public.tableau.com/views/finalproject4_17215721511740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 70 Global Cost of Living](https://public.tableau.com/app/profile/botao.cao/viz/LivingCostsAnalysis_final/Living_Cost_Analysis?publish=yes)
+
+[Team 71 Adult Income Dataset](https://public.tableau.com/app/profile/hongjiang.sun/viz/FinalPresentation_Team71/FinalPresentation-Team71?publish=yes)
+
+[Team 72 Education Statistics](https://public.tableau.com/views/Project_17208173986490/ComparisonofeducationalandperformanceinNorthAmericaandAsia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 73 E-Commerce Shipping Data](https://public.tableau.com/app/profile/xinhui.lin4911/viz/E-commerceShippingDataAnalysis_17215100075370/E-commerceShippingData?publish=yes)
+
+[Team 75 Online Sales in USA](https://public.tableau.com/app/profile/yuzhong.wang8542/viz/datavisualizationgroup75/Story1?publish=yes)
+
+[Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
+
+[Team 78 Airbnb Listing Data](https://public.tableau.com/app/profile/acyz/viz/Airbnb_17215068746850/Story1)
+
+[Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
+
+[Team 80 Mobile App Statistics](https://public.tableau.com/app/profile/zihao.shen3533/viz/DV_final_group80/Dashboard?publish=yes)
+
+[Team 81 Airbnb Listing Data](https://public.tableau.com/app/profile/qin.lin4970/viz/Finalproject3_17215852133800/RT-Overview?publish=yes)
+
+[Team 82 Ukraine/Russia Conflict Dataset](https://public.tableau.com/app/profile/binjun.jiang/viz/RussiaUkraineConflict/UkraineConflict?publish=yes)
+
+[Team 83 NYPD Shooting Incident Data](https://public.tableau.com/app/profile/sarah.zhai/viz/NYPDShootingHistoricAnalysis_Team83/NYPDShootingHistoricAnalysis)
+
+[Team 84 120 Years of Olympic History](https://public.tableau.com/app/profile/peilin.shi/viz/Team84FinalProject/OverallStatistic)
+
+[Team 85 Medical Costs Personal Data](https://public.tableau.com/app/profile/qi.xie3649/viz/finalproject85/InsuranceChargeFactorAnalysis?publish=yes)
+
+[Team 86 Global Internet Users](https://public.tableau.com/app/profile/jian.ji5315/viz/FinalProject_Final_17215094688870/FinalProject?publish=yes)
+
+[Team 89 Fast Food Restaurants Across America](https://public.tableau.com/app/profile/ying.pei3057/viz/Team89_FastFoodRestruant/Team89_FastFoodRestaurantAnalysis?publish=yes)
+
+[Team 90 Amazon Product Dataset 2020](https://public.tableau.com/views/finalproject_17205754954840/AmazonProductStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 91 GDP per Capita (Current US$)](https://public.tableau.com/views/Team91Dashborad/Team91Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 92 Air Quality Time Series Data](https://public.tableau.com/app/profile/yibo.lei/viz/FinalProject_17213555207730/Dashboard1)
+
+[Team 93 Car Sales Data](https://public.tableau.com/views/Carsales_URL/TimeTrend?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 94 Crime in Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
+
+[Team 95 Airbnb Cleaned Europe Dataset](https://public.tableau.com/app/profile/yanan.chi/viz/DVG95groupproject-Airbnb/Story1#1)
+
+[Team 96 HR Analytics: Job Change of Data Scientists](https://public.tableau.com/app/profile/jinny.zhou/viz/HR_Project_96/Dashboard?publish=yes)
+
+[Team 102 City of Los Angeles Crime Data](https://public.tableau.com/app/profile/weizhao.cai/viz/718_17214270603940/Story)
+
+[Team 103 Pokemon with Stats](https://public.tableau.com/app/profile/yang.fan2879/viz/pokemoncomparison/Pokemon?publish=yes)
+
+[Team 104 Car Models 1899 to 2024](https://public.tableau.com/views/1_17215321656010/1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 105 Coffee Distribution](https://public.tableau.com/app/profile/yuwen.li4086/viz/Group105_CoffeeDistributionAcross94Countries/CoffeeDistributionStory?publish=yes)
+
+[Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
+
+[Team 107 Olympic Swimming History](https://public.tableau.com/app/profile/ching.yi.hsu/viz/Team107DV/1912-2020OlympicSwimmingGamesAnalysis?publish=yes)
+
+[Team 108 Power Consumption in India(2019-2020) Part 1](https://public.tableau.com/app/profile/yuhan.qi/viz/Team108_XiaoxueLi_YuhanQi/AnalysisofElectricityUsageandCarbonEmissionsinIndia?publish=yes)
+
+[Team 109 Global Terrorism Database](https://public.tableau.com/app/profile/zuyao.wang/viz/Group109GlobalTerrorism/GlobalTerrorism?publish=yes)
+
+[Team 111 YouTube Statistics](https://public.tableau.com/app/profile/yilin.yang/viz/PresentationWorkbook_videos/Story1?publish=yes)
+
+[Team 117 CSGO Analysis](https://public.tableau.com/app/profile/jiale.zhu4954/viz/CSGOAnalysis_FinalVersion/Story1)
+
+[Team 119 Barcelona Analysis](https://public.tableau.com/views/BarcelonaAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 120 NYPD Shooting Incident](https://public.tableau.com/app/profile/xinyi.lu8284/viz/NYPDShootingIncident-Group120/NYPDShootingIncident?publish=yes)
+
+[Team 122 Ski Resort](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
+
+[Team 125 US Unemployment and Education Level](https://public.tableau.com/views/USUnemploymentEducationLevel/USUnemploymentEducationLevel?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 126 Flight Price Prediction](https://public.tableau.com/app/profile/sitong.zhou2895/viz/FlightPricePrediction--Team126/Story1?publish=yes)
+
+[Team 127 E-Commerce Analysis](https://public.tableau.com/app/profile/zhifeng.yu4027/viz/e-commerceanalysis_17294796250090/Story?publish=yes)
+
+[Team 128 Accelerators Portfolio: US Startups](https://public.tableau.com/app/profile/manman.wei/viz/100AcceleratorsPortfolioUSStartups2009-2019/Story2?publish=yes)
+
+[Team 132 Wine Dataset](https://public.tableau.com/app/profile/yanming.zhang/viz/WineDatasetTeam132/Wine?publish=yes)
+
+[Team 133 Wine Review](https://public.tableau.com/app/profile/mingyue.dai2921/viz/Team133WineReview/Overall)
+
+[Team 134 World Emission Overview](https://public.tableau.com/app/profile/boduo.lin/viz/Team134final/Story1#1)
+
+[Team 135 Customer Base Global Retail Bank](https://public.tableau.com/app/profile/rui.hong/viz/Team135-Customerbaseglobalretailbank/Dashboard6)
+
+[Team 137 Crimes of Marijuana in Columbia](https://public.tableau.com/app/profile/yuming.liu4202/viz/137grouptableau-biaoti/Intro?publish=yes)
+
+[Team 138 Real Estate Market in India's Major Cities](https://public.tableau.com/app/profile/yihong.qin/viz/Group138FinalProject/Home?publish=yes)
+
+[Team 139 Global Happiness](https://public.tableau.com/app/profile/lin.li5727/viz/DVFinalProject_team139/DVStory?publish=yes)
+
+[Team 140 Fuel Exports](https://public.tableau.com/app/profile/louise.ju.yin.lee6833/viz/amazingprojectprefinal/HomePage?publish=yes)
+
+[Team 141 Superstore Sales Analysis](https://public.tableau.com/app/profile/helin.zhao/viz/Groupworkver1_00/Ver0_15?publish=yes)
+
+[Team 142 Crash Report Analytics](https://public.tableau.com/app/profile/xinyi.zheng1134/viz/FinalProject1_17294459640510/Final?publish=yes)
+
+[Team 143 Movie Popularity Analysis](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 144 Export of Goods and Services](https://public.tableau.com/app/profile/luna.liu/viz/da_17261484599280/Story1?publish=yes)
+
+[Team 145 Ski Resort](https://public.tableau.com/views/FinalProject_SkiResort/SkiResort?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 146 India Domestic Airlines: Price Analysis](https://public.tableau.com/app/profile/zizhen.wang/viz/Projectfinal_17294726554640/3?publish=yes)
+
+[Team 147 Superstore Analysis](https://public.tableau.com/views/Group147Project1_17281814873700/Supermarket?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 148 US Education, Income, and Unemployment](https://public.tableau.com/app/profile/chung.hon.ng/viz/USEducationIncomeandUnemployment/Story1)
+
+[Team 149 US Birth](https://public.tableau.com/views/FinalProject_17294701310820/U_S_Birth?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 152 Electric Vehicle Population](https://public.tableau.com/shared/J6PCBP9PQ?:display_count=n&:origin=viz_share_link)
+
+[Team 153 Food Nutriention](https://public.tableau.com/app/profile/boning.chu/viz/Final-11/Storytelling)
+
+[Team 154 Car Sales Analysis](https://public.tableau.com/app/profile/shengyi.xu/viz/projectdv_17292012463960/Story1#1)
+
+[Team 157 Indian Aviation Market Analysis](https://public.tableau.com/views/Team157-IndianAviationMarketAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 158 Marketing Campaigns in Portuguese Bank](https://public.tableau.com/app/profile/ziming.huang3421/viz/DataProject_17281013527890/Story1?publish=yes)
+
+[Team 159 Household Income Data Analysis](https://public.tableau.com/app/profile/zixuan.wang5235/viz/DataVisualizationTeam159USHouseholdIncomeAnalysis/ImpactofLandAreaonIncomeandIncomeDisparity#1)
+
+[Team 160 University Ranking Analysis](https://public.tableau.com/shared/Z7TPT283J?:display_count=n&:origin=viz_share_link)
+
+[Team 161 E-Commerce Transaction Analysis](https://public.tableau.com/app/profile/yandong.zhang7772/viz/Team161E-CommerceTransactionAnalysis/Overview?publish=yes)
+
+[Team 162 Human Resource Overview](https://public.tableau.com/app/profile/siru.he/viz/Final_project_edition1/BasicInformationPage?publish=yes)
+
+[Team 164 Credit Card Data Analysis](https://public.tableau.com/app/profile/wenze.zhao/viz/Prediction2_17294363621230/CreditCardDefaultAnalysis?publish=yes)
+
+[Team 165 How green is your neighbourhood?](https://public.tableau.com/app/profile/ziyao.wang7216/viz/CO2EmissionReport_17293509489080/CO2EmissionReport?publish=yes)
+
+[Team 166 US Birth Data](https://public.tableau.com/views/Usbirthdatastory/Story1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Team 168 App Store Insight](https://public.tableau.com/views/Group168Groupwork/AppStoreInsights?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
