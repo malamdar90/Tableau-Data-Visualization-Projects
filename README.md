@@ -282,21 +282,21 @@
 
 [Team 140](https://public.tableau.com/app/profile/louise.ju.yin.lee6833/viz/amazingprojectprefinal/HomePage?publish=yes)
 
-[Team 141](https://public.tableau.com/app/profile/helin.zhao/viz/Groupworkver1_00/Ver0_15?publish=yes)
+[Team 141 Superstore Sales Analysis](https://public.tableau.com/app/profile/helin.zhao/viz/Groupworkver1_00/Ver0_15?publish=yes)
 
-[Team 142](https://public.tableau.com/app/profile/xinyi.zheng1134/viz/FinalProject1_17294459640510/Final?publish=yes)
+[Team 142 Crash Report Analytics](https://public.tableau.com/app/profile/xinyi.zheng1134/viz/FinalProject1_17294459640510/Final?publish=yes)
 
-[Team 143](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 143 Movie Popularity Analysis](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 144](https://public.tableau.com/app/profile/luna.liu/viz/da_17261484599280/Story1?publish=yes)
+[Team 144 Export of Goods and Services](https://public.tableau.com/app/profile/luna.liu/viz/da_17261484599280/Story1?publish=yes)
 
-[Team 145](https://public.tableau.com/views/FinalProject_SkiResort/SkiResort?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 145 Ski Resort](https://public.tableau.com/views/FinalProject_SkiResort/SkiResort?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 146](https://public.tableau.com/app/profile/zizhen.wang/viz/Projectfinal_17294726554640/3?publish=yes)
+[Team 146 India Domestic Airlines: Price Analysis](https://public.tableau.com/app/profile/zizhen.wang/viz/Projectfinal_17294726554640/3?publish=yes)
 
-[Team 147](https://public.tableau.com/views/Group147Project1_17281814873700/Supermarket?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 147 Superstore Analysis](https://public.tableau.com/views/Group147Project1_17281814873700/Supermarket?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 148](https://public.tableau.com/app/profile/chung.hon.ng/viz/USEducationIncomeandUnemployment/Story1)
+[Team 148 US Education, Income, and Unemployment](https://public.tableau.com/app/profile/chung.hon.ng/viz/USEducationIncomeandUnemployment/Story1)
 
 [Team 149 US Birth](https://public.tableau.com/views/FinalProject_17294701310820/U_S_Birth?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
