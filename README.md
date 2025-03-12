@@ -114,8 +114,6 @@
 
 [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
 
-[Team 5	Bike Sharing](https://public.tableau.com/shared/KPRY93R6H?:display_count=n&:origin=viz_share_link)
-
 [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 9	E-Commerce Sales Dataset](https://public.tableau.com/views/Team9_16903057124830/AnalyzeAmazonE-CommerceinIndia?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
