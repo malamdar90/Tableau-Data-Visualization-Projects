@@ -235,7 +235,7 @@
 
 [Team 107 Olympic Swimming History](https://public.tableau.com/app/profile/ching.yi.hsu/viz/Team107DV/1912-2020OlympicSwimmingGamesAnalysis?publish=yes)
 
-[Team 108 Power Consumption in India(2019-2020) Part 1](https://public.tableau.com/app/profile/yuhan.qi/viz/Team108_XiaoxueLi_YuhanQi/AnalysisofElectricityUsageandCarbonEmissionsinIndia?publish=yes), [Part 2](https://public.tableau.com/shared/BW2MQNYCT?:display_count=n&:origin=viz_share_link)
+[Team 108 Power Consumption in India(2019-2020) Part 1](https://public.tableau.com/app/profile/yuhan.qi/viz/Team108_XiaoxueLi_YuhanQi/AnalysisofElectricityUsageandCarbonEmissionsinIndia?publish=yes)
 
 [Team 109 Global Terrorism Database](https://public.tableau.com/app/profile/zuyao.wang/viz/Group109GlobalTerrorism/GlobalTerrorism?publish=yes)
 
