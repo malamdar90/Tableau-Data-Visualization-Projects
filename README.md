@@ -38,6 +38,7 @@
 - [Team 43 World Air Quality Index by City and Coordinates](https://public.tableau.com/views/Team43Final_16899951031240/AirQualityIndexValueofCountries?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Team 69 Air Quality Part 1](https://public.tableau.com/views/finalproject2_17215718847560/Dashboard_RuipengCao?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 2](https://public.tableau.com/views/finalproject3_17215720747140/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), [Part 3](https://public.tableau.com/views/finalproject4_17215721511740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Team 92 Air Quality Time Series Data](https://public.tableau.com/app/profile/yibo.lei/viz/FinalProject_17213555207730/Dashboard1)
 - [Team 165 How green is your neighbourhood?](https://public.tableau.com/app/profile/ziyao.wang7216/viz/CO2EmissionReport_17293509489080/CO2EmissionReport?publish=yes)
 
 **Education & University Rankings**
@@ -52,10 +53,14 @@
 - [Team 23 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/yuchun.wu1352/viz/DV7_3Team_23/Team23Story)
 - [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
 - [Team 83 NYPD Shooting Incident Data](https://public.tableau.com/app/profile/sarah.zhai/viz/NYPDShootingHistoricAnalysis_Team83/NYPDShootingHistoricAnalysis)
+- **[Team 88 City of Los Angeles Crime Data](https://public.tableau.com/shared/JYNKSFS68?:display_count=n&:origin=viz_share_link)**
 - [Team 94 Crime in Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
 - [Team 102 City of Los Angeles Crime Data](https://public.tableau.com/app/profile/weizhao.cai/viz/718_17214270603940/Story)
 - [Team 120 NYPD Shooting Incident](https://public.tableau.com/app/profile/xinyi.lu8284/viz/NYPDShootingIncident-Group120/NYPDShootingIncident?publish=yes)
 - [Team 137 Crimes of Marijuana in Columbia](https://public.tableau.com/app/profile/yuming.liu4202/viz/137grouptableau-biaoti/Intro?publish=yes)
+- **[Team 151 Crash Analysis in Maryland](https://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- **[Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- **[Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)**
 
 **Movies, TV Shows & Video Games**
 - [Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
@@ -97,6 +102,7 @@
 - [Team 28 Lending Club Loan Dataset](https://public.tableau.com/views/Team28LoanStatusAnalysis/IncomeLevelisNotTheOnlyFactorOurGradingSystemisRelativelyAccurate?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 42 Credit Card Dataset for Clustering](https://public.tableau.com/views/DV_draft2/DataOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - **[Team 110 Credit Card Churn Prediction](https://public.tableau.com/app/profile/tianai.li/viz/creditcard_17206455636590/CreditCardChurnAnalysis?publish=yes)**
+- **[Team 156 Credit Risk Analysis](https://public.tableau.com/app/profile/xiaochang.chen/viz/CreditRiskAnalysisGroup156/Overview?publish=yes)**
 - [Team 158 Marketing Campaigns in Portuguese Bank](https://public.tableau.com/app/profile/ziming.huang3421/viz/DataProject_17281013527890/Story1?publish=yes)
 - [Team 164 Credit Card Data Analysis](https://public.tableau.com/app/profile/wenze.zhao/viz/Prediction2_17294363621230/CreditCardDefaultAnalysis?publish=yes)
 
@@ -189,7 +195,6 @@
 [Team 86 Global Internet Users](https://public.tableau.com/app/profile/jian.ji5315/viz/FinalProject_Final_17215094688870/FinalProject?publish=yes)
 
 
-[Team 92 Air Quality Time Series Data](https://public.tableau.com/app/profile/yibo.lei/viz/FinalProject_17213555207730/Dashboard1)
 
 
 [Team 103 Pokemon with Stats](https://public.tableau.com/app/profile/yang.fan2879/viz/pokemoncomparison/Pokemon?publish=yes)
@@ -251,32 +256,27 @@
 
 ## Selected Projects
 
-[Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)
-
-[Team 88 City of Los Angeles Crime Data](https://public.tableau.com/shared/JYNKSFS68?:display_count=n&:origin=viz_share_link)
-
-[Team 118 Indian Crops Production](https://public.tableau.com/app/profile/xuanyi.zhu/viz/118-finalIndiaAgricultureCropProduction_17292701456770/Bookcover)
-
-[Team 123 Wine Testing](https://public.tableau.com/app/profile/qiutong.ye/viz/WineTastingOverview_Team123/Summary?publish=yes)
-
-[Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Team 151 Crash Analysis in Maryland](https://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**[Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)**
 
 
-[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) (Due to commercial data restrictions, the Tableau file is not accessible to the public)
+**[Team 118 Indian Crops Production](https://public.tableau.com/app/profile/xuanyi.zhu/viz/118-finalIndiaAgricultureCropProduction_17292701456770/Bookcover)**
 
-[Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+**[Team 123 Wine Testing](https://public.tableau.com/app/profile/qiutong.ye/viz/WineTastingOverview_Team123/Summary?publish=yes)**
 
-[Team 74 US Car Accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)
 
-[Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)
+- **[Team 14 Investment Funds](https://youtu.be/zeEYo0-rmXg) (Due to commercial data restrictions, the Tableau file is not accessible to the public)**
 
-[Team 150 Retaining UK Market](https://public.tableau.com/app/profile/meiyi.chen/viz/DVFinalProject_team150/RETAININGUKMARKETEXPLORINGOVERSEASOPPORTUNITIES?publish=yes)
+- **[Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 
-[Team 156 Credit Risk Analysis](https://public.tableau.com/app/profile/xiaochang.chen/viz/CreditRiskAnalysisGroup156/Overview?publish=yes)
+- **[Team 74 US Car Accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)**
 
-[Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)
+- **[Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)**
+
+- **[Team 150 Retaining UK Market](https://public.tableau.com/app/profile/meiyi.chen/viz/DVFinalProject_team150/RETAININGUKMARKETEXPLORINGOVERSEASOPPORTUNITIES?publish=yes)**
+
+
+
+
 
 
 
