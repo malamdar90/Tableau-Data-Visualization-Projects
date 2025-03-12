@@ -312,13 +312,13 @@
 
 [Team 158](https://public.tableau.com/app/profile/ziming.huang3421/viz/DataProject_17281013527890/Story1?publish=yes)
 
-[Team 159](https://public.tableau.com/app/profile/zixuan.wang5235/viz/DataVisualizationTeam159USHouseholdIncomeAnalysis/ImpactofLandAreaonIncomeandIncomeDisparity#1)
+[Team 159 Household Income Data Analysis](https://public.tableau.com/app/profile/zixuan.wang5235/viz/DataVisualizationTeam159USHouseholdIncomeAnalysis/ImpactofLandAreaonIncomeandIncomeDisparity#1)
 
-[Team 160](https://public.tableau.com/shared/Z7TPT283J?:display_count=n&:origin=viz_share_link)
+[Team 160 University Ranking Analysis](https://public.tableau.com/shared/Z7TPT283J?:display_count=n&:origin=viz_share_link)
 
-[Team 161](https://public.tableau.com/app/profile/yandong.zhang7772/viz/Team161E-CommerceTransactionAnalysis/Overview?publish=yes)
+[Team 161 E-Commerce Transaction Analysis](https://public.tableau.com/app/profile/yandong.zhang7772/viz/Team161E-CommerceTransactionAnalysis/Overview?publish=yes)
 
-[Team 162](https://public.tableau.com/app/profile/siru.he/viz/Final_project_edition1/BasicInformationPage?publish=yes)
+[Team 162 Human Resource Overview](https://public.tableau.com/app/profile/siru.he/viz/Final_project_edition1/BasicInformationPage?publish=yes)
 
 [Team 164 Credit Card Data Analysis](https://public.tableau.com/app/profile/wenze.zhao/viz/Prediction2_17294363621230/CreditCardDefaultAnalysis?publish=yes)
 
