@@ -79,9 +79,6 @@
 
 [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
 
-[Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
-[Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 74 US Car Accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)
@@ -107,7 +104,7 @@
 
 ## Other Projects
 
-## **Air Quality & Environment**
+ **Air Quality & Environment**
 - [Team 1	World Air Quality Index by City and Coordinates Part 1](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard1/Dashboard1?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard2/Dashboard2?publish=yes), 
   [Part 3](https://public.tableau.com/app/profile/jianyu.wang4565/viz/Team1DVFinalProjectDashboard3/Dashboard3?publish=yes), 
@@ -125,9 +122,16 @@
 
 
 
+**Education & University Rankings**
 
+- [Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
 
+- [Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[Part 2](https://public.tableau.com/views/StudentInformation_16902682513730/StuInfoALL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+- [Team 160 University Ranking Analysis](https://public.tableau.com/shared/Z7TPT283J?:display_count=n&:origin=viz_share_link)
+
+- [Team 72 Education Statistics](https://public.tableau.com/views/Project_17208173986490/ComparisonofeducationalandperformanceinNorthAmericaandAsia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -194,7 +198,7 @@
 
 [Team 71 Adult Income Dataset](https://public.tableau.com/app/profile/hongjiang.sun/viz/FinalPresentation_Team71/FinalPresentation-Team71?publish=yes)
 
-[Team 72 Education Statistics](https://public.tableau.com/views/Project_17208173986490/ComparisonofeducationalandperformanceinNorthAmericaandAsia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 [Team 73 E-Commerce Shipping Data](https://public.tableau.com/app/profile/xinhui.lin4911/viz/E-commerceShippingDataAnalysis_17215100075370/E-commerceShippingData?publish=yes)
 
@@ -315,8 +319,6 @@
 [Team 158 Marketing Campaigns in Portuguese Bank](https://public.tableau.com/app/profile/ziming.huang3421/viz/DataProject_17281013527890/Story1?publish=yes)
 
 [Team 159 Household Income Data Analysis](https://public.tableau.com/app/profile/zixuan.wang5235/viz/DataVisualizationTeam159USHouseholdIncomeAnalysis/ImpactofLandAreaonIncomeandIncomeDisparity#1)
-
-[Team 160 University Ranking Analysis](https://public.tableau.com/shared/Z7TPT283J?:display_count=n&:origin=viz_share_link)
 
 [Team 161 E-Commerce Transaction Analysis](https://public.tableau.com/app/profile/yandong.zhang7772/viz/Team161E-CommerceTransactionAnalysis/Overview?publish=yes)
 
