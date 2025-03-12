@@ -131,10 +131,6 @@
 
 [Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
 
-[Team 21	NBA Players	Part 1](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/TXH5993YH), 
-[Part 2](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/XGZ9YN2R8), 
-[Part 3](https://public.tableau.com/app/profile/bailey.finkelberg/viz/shared/M6353FPZS)
-
 [Team 22 Personal Key Indicator of Heart Disease](https://public.tableau.com/views/Group_22_Final_Project/DiseaseRelatedHealthCondition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
