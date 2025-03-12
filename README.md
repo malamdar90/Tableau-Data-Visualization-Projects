@@ -201,7 +201,8 @@
 - [Team 119 Barcelona Analysis](https://public.tableau.com/views/BarcelonaAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 122 Ski Resort](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
 - **[Team 123 Wine Testing](https://public.tableau.com/app/profile/qiutong.ye/viz/WineTastingOverview_Team123/Summary?publish=yes)**
-- **[Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)**- [Team 132 Wine Dataset](https://public.tableau.com/app/profile/yanming.zhang/viz/WineDatasetTeam132/Wine?publish=yes)
+- **[Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)**
+- [Team 132 Wine Dataset](https://public.tableau.com/app/profile/yanming.zhang/viz/WineDatasetTeam132/Wine?publish=yes)
 - [Team 133 Wine Review](https://public.tableau.com/app/profile/mingyue.dai2921/viz/Team133WineReview/Overall)
 - [Team 145 Ski Resort](https://public.tableau.com/views/FinalProject_SkiResort/SkiResort?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 149 US Birth](https://public.tableau.com/views/FinalProject_17294701310820/U_S_Birth?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
