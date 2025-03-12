@@ -73,11 +73,9 @@
 
 [Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
 
-[Team 23 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/yuchun.wu1352/viz/DV7_3Team_23/Team23Story)
 
 [Team 35 Airline Passenger Satisfaction](https://public.tableau.com/app/profile/maya.roberts7304/viz/MayaRobertsTeam35-AirlinePassangerSatisfaction-comprehensive/Story1)
 
-[Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
 
 [Team 40 Data Science Salaries 2023](https://public.tableau.com/views/Project_Group40/DataScienceJobsSalaries?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
@@ -134,7 +132,22 @@
 - [Team 72 Education Statistics](https://public.tableau.com/views/Project_17208173986490/ComparisonofeducationalandperformanceinNorthAmericaandAsia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
+**Crime & Safety**
+- [Team 102 City of Los Angeles Crime Data](https://public.tableau.com/app/profile/weizhao.cai/viz/718_17214270603940/Story)
 
+- [Team 120 NYPD Shooting Incident](https://public.tableau.com/app/profile/xinyi.lu8284/viz/NYPDShootingIncident-Group120/NYPDShootingIncident?publish=yes)
+
+- [Team 137 Crimes of Marijuana in Columbia](https://public.tableau.com/app/profile/yuming.liu4202/viz/137grouptableau-biaoti/Intro?publish=yes)
+
+- [Team 23 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/yuchun.wu1352/viz/DV7_3Team_23/Team23Story)
+
+- [Team 37 Crime Data from 2020 to Present](https://public.tableau.com/app/profile/minghao.li4125/viz/Team37GroupProject/Dashboard?publish=yes)
+
+- [Team 83 NYPD Shooting Incident Data](https://public.tableau.com/app/profile/sarah.zhai/viz/NYPDShootingHistoricAnalysis_Team83/NYPDShootingHistoricAnalysis)
+
+- [Team 94 Crime in Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
+
+  
 [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
 
 [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -216,7 +229,6 @@
 
 [Team 82 Ukraine/Russia Conflict Dataset](https://public.tableau.com/app/profile/binjun.jiang/viz/RussiaUkraineConflict/UkraineConflict?publish=yes)
 
-[Team 83 NYPD Shooting Incident Data](https://public.tableau.com/app/profile/sarah.zhai/viz/NYPDShootingHistoricAnalysis_Team83/NYPDShootingHistoricAnalysis)
 
 [Team 84 120 Years of Olympic History](https://public.tableau.com/app/profile/peilin.shi/viz/Team84FinalProject/OverallStatistic)
 
@@ -234,13 +246,11 @@
 
 [Team 93 Car Sales Data](https://public.tableau.com/views/Carsales_URL/TimeTrend?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 94 Crime in Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
 
 [Team 95 Airbnb Cleaned Europe Dataset](https://public.tableau.com/app/profile/yanan.chi/viz/DVG95groupproject-Airbnb/Story1#1)
 
 [Team 96 HR Analytics: Job Change of Data Scientists](https://public.tableau.com/app/profile/jinny.zhou/viz/HR_Project_96/Dashboard?publish=yes)
 
-[Team 102 City of Los Angeles Crime Data](https://public.tableau.com/app/profile/weizhao.cai/viz/718_17214270603940/Story)
 
 [Team 103 Pokemon with Stats](https://public.tableau.com/app/profile/yang.fan2879/viz/pokemoncomparison/Pokemon?publish=yes)
 
@@ -262,7 +272,6 @@
 
 [Team 119 Barcelona Analysis](https://public.tableau.com/views/BarcelonaAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 120 NYPD Shooting Incident](https://public.tableau.com/app/profile/xinyi.lu8284/viz/NYPDShootingIncident-Group120/NYPDShootingIncident?publish=yes)
 
 [Team 122 Ski Resort](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
 
@@ -282,7 +291,6 @@
 
 [Team 135 Customer Base Global Retail Bank](https://public.tableau.com/app/profile/rui.hong/viz/Team135-Customerbaseglobalretailbank/Dashboard6)
 
-[Team 137 Crimes of Marijuana in Columbia](https://public.tableau.com/app/profile/yuming.liu4202/viz/137grouptableau-biaoti/Intro?publish=yes)
 
 [Team 138 Real Estate Market in India's Major Cities](https://public.tableau.com/app/profile/yihong.qin/viz/Group138FinalProject/Home?publish=yes)
 
