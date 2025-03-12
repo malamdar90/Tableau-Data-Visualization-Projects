@@ -147,6 +147,21 @@
 
 - [Team 94 Crime in Baltimore](https://public.tableau.com/shared/6J4KC3MJG?:display_count=n&:origin=viz_share_link)
 
+
+
+
+**Movies, TV Shows & Video Games**
+
+- [Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
+- 
+- [Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
+- 
+- [Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)
+
+- [Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- [Team 143 Movie Popularity Analysis](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  
   
 [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
 
@@ -217,11 +232,9 @@
 
 [Team 75 Online Sales in USA](https://public.tableau.com/app/profile/yuzhong.wang8542/viz/datavisualizationgroup75/Story1?publish=yes)
 
-[Team 76 Top Video Games 1995-2021 Metacritic](https://public.tableau.com/app/profile/qiao.dong1243/viz/FinalProjectDV_17214334773170/GameAnalysis1995-2021?publish=yes)
 
 [Team 78 Airbnb Listing Data](https://public.tableau.com/app/profile/acyz/viz/Airbnb_17215068746850/Story1)
 
-[Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
 
 [Team 80 Mobile App Statistics](https://public.tableau.com/app/profile/zihao.shen3533/viz/DV_final_group80/Dashboard?publish=yes)
 
@@ -301,8 +314,6 @@
 [Team 141 Superstore Sales Analysis](https://public.tableau.com/app/profile/helin.zhao/viz/Groupworkver1_00/Ver0_15?publish=yes)
 
 [Team 142 Crash Report Analytics](https://public.tableau.com/app/profile/xinyi.zheng1134/viz/FinalProject1_17294459640510/Final?publish=yes)
-
-[Team 143 Movie Popularity Analysis](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Team 144 Export of Goods and Services](https://public.tableau.com/app/profile/luna.liu/viz/da_17261484599280/Story1?publish=yes)
 
