@@ -320,13 +320,13 @@
 
 [Team 162](https://public.tableau.com/app/profile/siru.he/viz/Final_project_edition1/BasicInformationPage?publish=yes)
 
-[Team 164](https://public.tableau.com/app/profile/wenze.zhao/viz/Prediction2_17294363621230/CreditCardDefaultAnalysis?publish=yes)
+[Team 164 Credit Card Data Analysis](https://public.tableau.com/app/profile/wenze.zhao/viz/Prediction2_17294363621230/CreditCardDefaultAnalysis?publish=yes)
 
-[Team 165](https://public.tableau.com/app/profile/ziyao.wang7216/viz/CO2EmissionReport_17293509489080/CO2EmissionReport?publish=yes)
+[Team 165 How green is your neighbourhood?](https://public.tableau.com/app/profile/ziyao.wang7216/viz/CO2EmissionReport_17293509489080/CO2EmissionReport?publish=yes)
 
-[Team 166](https://public.tableau.com/views/Usbirthdatastory/Story1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 166 US Birth Data](https://public.tableau.com/views/Usbirthdatastory/Story1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 168](https://public.tableau.com/views/Group168Groupwork/AppStoreInsights?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 168 App Store Insight](https://public.tableau.com/views/Group168Groupwork/AppStoreInsights?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
