@@ -155,7 +155,8 @@
 
 
 **Sports & Gaming**
-- [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)- **[Team 11 eSports Earnings]**(https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)
+- [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+- **[Team 11 eSports Earnings](https://public.tableau.com/app/profile/tinghan.zhu/viz/StorytellingDashboardVisualizationswithTableau_Group_11/StrategicInvestmentGuidanceinEsports)**
 - [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 41 NBA Player Data](https://public.tableau.com/app/profile/zhichen.zhang1850/viz/Project_16892563432140/NBADataAnalysis?publish=yes)
 - [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
