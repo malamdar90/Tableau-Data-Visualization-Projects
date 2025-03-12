@@ -119,7 +119,8 @@
 
 
 **Education & University Rankings**
-
+- [Team 10 Students Exam Scores: Extended Dataset](https://public.tableau.com/views/Exam_Score_Team10/DetailsofExamPerformance?:language=zh-CN&:display_count=n&:origin=viz_share_link)
+- 
 - [Team 19 World University Ranking](https://public.tableau.com/app/profile/chuyi.zhang2615/viz/WorldUniversityRanking_Team19/CollegeWorldRanking)
 
 - [Team 38	University Rankings	Part 1](https://public.tableau.com/views/TimesRankingVisualization/Story3?:language=en-US&:display_count=n&:origin=viz_share_link), 
@@ -181,39 +182,110 @@
 - [Team 157 Indian Aviation Market Analysis](https://public.tableau.com/views/Team157-IndianAviationMarketAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-  
-[Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
 
-[Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 9	E-Commerce Sales Dataset](https://public.tableau.com/views/Team9_16903057124830/AnalyzeAmazonE-CommerceinIndia?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 10 Students Exam Scores: Extended Dataset](https://public.tableau.com/views/Exam_Score_Team10/DetailsofExamPerformance?:language=zh-CN&:display_count=n&:origin=viz_share_link)
+## **E-Commerce & Online Sales**
+- [Team 127 E-Commerce Analysis](#)
+- [Team 161 E-Commerce Transaction Analysis](#)
+- [Team 73 E-Commerce Shipping Data](https://public.tableau.com/app/profile/xinhui.lin4911/viz/E-commerceShippingDataAnalysis_17215100075370/E-commerceShippingData?publish=yes)
+- [Team 9	E-Commerce Sales Dataset](https://public.tableau.com/views/Team9_16903057124830/AnalyzeAmazonE-CommerceinIndia?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Team 75 Online Sales in USA](https://public.tableau.com/app/profile/yuzhong.wang8542/viz/datavisualizationgroup75/Story1?publish=yes)
 
-[Team 12 Airline Passenger Satisfaction Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
+- [Team 77 Online Sales in USA](#)
+- [Team 90 Amazon Product Dataset](#)
+
+## **Employment & Salaries**
+- [Team 129 Global Salary](#)
+- [Team 40 Data Science Salaries 2023](#)
+- [Team 71 Adult Income Dataset](https://public.tableau.com/app/profile/hongjiang.sun/viz/FinalPresentation_Team71/FinalPresentation-Team71?publish=yes)
+
+
+- [Team 96 HR Analytics](#)
+
+## **Finance & Banking**
+- [Team 110 Credit Card Churn Prediction](#)
+- [Team 26 Credit Card Spend Analysis](https://public.tableau.com/app/profile/xuan.wang3756/viz/Team26-IndiaCreditCardSpendAnalysis/IndiaCreditCardAnalysisStory#2)
+
+- [Team 42 Credit Card Dataset for Clustering](https://public.tableau.com/views/DV_draft2/DataOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Team 164 Credit Card Data Analysis](#)
+- [Team 158 Marketing Campaigns in Portuguese Bank](#)
+- [Team 28 Lending Club Loan Dataset](https://public.tableau.com/views/Team28LoanStatusAnalysis/IncomeLevelisNotTheOnlyFactorOurGradingSystemisRelativelyAccurate?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+
+## **Real Estate & Housing**
+- [Team 18 USA Real Estate Dataset](https://public.tableau.com/app/profile/zifan.xu3168/viz/DV_FinalProject_FinalVersion/Whereandhowtochooseyourhouse?publish=yes)
+
+- [Team 138 Real Estate Market in India's Major Cities](#)
+- [Team 15 New York City Airbnb Open Data](https://public.tableau.com/views/Group15_16898776937640/Whatfactorshaveimpactsonairbnbprice?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Team 29 New York City Airbnb Open Data](https://public.tableau.com/app/profile/shuo.zhang6571/viz/DV_FinalProject_16902389571030/AirbnbStory?publish=yes)
+
+- [Team 4 NYC Airbnb Open Data](#)
+- [Team 78 Airbnb Listing Data](https://public.tableau.com/app/profile/acyz/viz/Airbnb_17215068746850/Story1)
+- [Team 81 Airbnb Listing Data](#)
+- [Team 95 Airbnb Cleaned Europe Dataset](#)
+
+## **Consumer Products & Market Trends**
+- [Team 2 Adidas Sales](#)
+- [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
+- [Team 6 Adidas Sales](#)
+- [Team 163 Sephora](#)
+- [Team 89 Fast Food Restaurants](#)
+- [Team 93 Car Sales Data](#)
+- [Team 154 Car Sales Analysis](#)
+- [Team 104 Car Models 1899 to 2024](#)
+
+## **Sports & Gaming**
+- [Team 8	NBA Player Data](https://public.tableau.com/views/Finalproject_Team8_NBADataset/HelptheNBAFindBetterPlayers?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Team 41 NBA Player Data](https://public.tableau.com/app/profile/zhichen.zhang1850/viz/Project_16892563432140/NBADataAnalysis?publish=yes)
+
+- [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+- [Team 107 Olympic Swimming History](#)
+- [Team 84 Olympic History](#)
+- [Team 11 eSports Earnings](#)
+- [Team 117 CSGO Analysis](#)
+
+## **Global Economy & Trade**
+- [Team 121 Global Poverty & Inequality](#)
+- [Team 134 World Emission Overview](#)
+- [Team 140 Fuel Exports](#)
+- [Team 144 Export of Goods and Services](#)
+- [Team 91 GDP per Capita](#)
+
+## **Customer Satisfaction & Business Analytics**
+- [Team 25 Airline Passenger Satisfaction](#)
+- [Team 27 Airline Passenger Satisfaction](#)
+- [Team 32 Airline Passenger Satisfaction](https://public.tableau.com/views/Airline_Final_Project_16898878870150/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- 
+- [Team 35 Airline Passenger Satisfaction](#)
+- [Team 44	121 Airline Passenger Satisfaction	Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
+[Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
+
+- [Team 12 Airline Passenger Satisfaction Part 1](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionExploration/AirlinePassengerSatisfactionExploration?publish=yes), 
   [Part 2](https://public.tableau.com/app/profile/zhihang.luo/viz/Team12-AirlinePassengerSatisfactionVariablesExploration/AirlinePassengerSatisfactionVariableExploration?publish=yes)
+  
+- [Team 135 Customer Base Global Retail Bank](#)
 
-[Team 15 New York City Airbnb Open Data](https://public.tableau.com/views/Group15_16898776937640/Whatfactorshaveimpactsonairbnbprice?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
+## **Miscellaneous**
+- [Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
+
+- [Team 82 Ukraine/Russia Conflict Dataset](#)
+- [Team 13 Dating App Fame & Behavior](#)
+- [Team 168 App Store Insight](#)
+- [Team 3	Google Play Store_Cleaned](https://public.tableau.com/app/profile/haowen.zhang5422/viz/GooglePlayStoreAnalysis_16903294438740/GooglePlayStoreAnalysis)
+
+- [Team 99 Google Play Store Dataset](#)
+- [Team 80 Mobile App Statistics](https://public.tableau.com/app/profile/zihao.shen3533/viz/DV_final_group80/Dashboard?publish=yes)
+
+
 
 [Team 16 Avocado Prices](https://public.tableau.com/views/AvocadoPricesStory/AvocadoPrices?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 18 USA Real Estate Dataset](https://public.tableau.com/app/profile/zifan.xu3168/viz/DV_FinalProject_FinalVersion/Whereandhowtochooseyourhouse?publish=yes)
-
-[Team 20 Covid-19 Data](https://public.tableau.com/app/profile/jiahao.yu8074/viz/Team20-finalcovid-19/Covid-19intheUS?publish=yes)
-
-[Team 24 NBA Players](https://public.tableau.com/views/Team_24_DV_Project_Tableau_Finalized/NBAPlayerDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 26 Credit Card Spend Analysis](https://public.tableau.com/app/profile/xuan.wang3756/viz/Team26-IndiaCreditCardSpendAnalysis/IndiaCreditCardAnalysisStory#2)
-
-[Team 28 Lending Club Loan Dataset](https://public.tableau.com/views/Team28LoanStatusAnalysis/IncomeLevelisNotTheOnlyFactorOurGradingSystemisRelativelyAccurate?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 29 New York City Airbnb Open Data](https://public.tableau.com/app/profile/shuo.zhang6571/viz/DV_FinalProject_16902389571030/AirbnbStory?publish=yes)
-
 [Team 30 Company Bankruptcy Prediction](https://public.tableau.com/views/CompanyBankruptcy7_21_1/Dashboard?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 31 IMDB Movies Dataset](https://public.tableau.com/views/Datavisualization_IMDB_Group_31_Final/ItisbettertoproducedocumentarygenreandJuneandDecemberarebettertimetoreleaseMovie?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[Team 32 Airline Passenger Satisfaction](https://public.tableau.com/views/Airline_Final_Project_16898878870150/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Team 31 IMDB Movies Dataset](https://public.tableau.com/views/Datavisualization_IMDB_Group_31_Final/ItisbettertoproducedocumentarygenreandJuneandDecemberarebettertimetoreleaseMovie?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 33 IBM HR Analytics Employee Attrition & Performance](https://public.tableau.com/app/profile/jingxi.zhao/viz/DV_Project_final_Group33/IBMHRAnalyticsEmployeeAttritionPerformance?publish=yes)
 
@@ -228,32 +300,13 @@
 [Part 7](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/Co-impactsofInvestmentStageandInvestorTypeonNumberofExits?publish=yes), 
 [Part 8](https://public.tableau.com/app/profile/yixin.du/viz/Investors_in_China/ActiveLevelRankbyCountryRegion)
 
-[Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
-
-[Team 41 NBA Player Data](https://public.tableau.com/app/profile/zhichen.zhang1850/viz/Project_16892563432140/NBADataAnalysis?publish=yes)
-
-[Team 42 Credit Card Dataset for Clustering](https://public.tableau.com/views/DV_draft2/DataOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[Team 44	121 Airline Passenger Satisfaction	Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
-[Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
-
-[Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Team 70 Global Cost of Living](https://public.tableau.com/app/profile/botao.cao/viz/LivingCostsAnalysis_final/Living_Cost_Analysis?publish=yes)
 
-[Team 71 Adult Income Dataset](https://public.tableau.com/app/profile/hongjiang.sun/viz/FinalPresentation_Team71/FinalPresentation-Team71?publish=yes)
 
 
 
-[Team 73 E-Commerce Shipping Data](https://public.tableau.com/app/profile/xinhui.lin4911/viz/E-commerceShippingDataAnalysis_17215100075370/E-commerceShippingData?publish=yes)
 
-[Team 75 Online Sales in USA](https://public.tableau.com/app/profile/yuzhong.wang8542/viz/datavisualizationgroup75/Story1?publish=yes)
-
-
-[Team 78 Airbnb Listing Data](https://public.tableau.com/app/profile/acyz/viz/Airbnb_17215068746850/Story1)
-
-
-[Team 80 Mobile App Statistics](https://public.tableau.com/app/profile/zihao.shen3533/viz/DV_final_group80/Dashboard?publish=yes)
 
 [Team 81 Airbnb Listing Data](https://public.tableau.com/app/profile/qin.lin4970/viz/Finalproject3_17215852133800/RT-Overview?publish=yes)
 
