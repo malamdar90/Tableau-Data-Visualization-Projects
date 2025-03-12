@@ -247,24 +247,21 @@
 
 [Team 111 YouTube Statistics](https://public.tableau.com/app/profile/yilin.yang/viz/PresentationWorkbook_videos/Story1?publish=yes)
 
-[Team 117](https://public.tableau.com/app/profile/jiale.zhu4954/viz/CSGOAnalysis_FinalVersion/Story1)
+[Team 117 CSGO Analysis](https://public.tableau.com/app/profile/jiale.zhu4954/viz/CSGOAnalysis_FinalVersion/Story1)
 
-[Team 119](https://public.tableau.com/views/BarcelonaAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 119 Barcelona Analysis](https://public.tableau.com/views/BarcelonaAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 120](https://public.tableau.com/app/profile/xinyi.lu8284/viz/NYPDShootingIncident-Group120/NYPDShootingIncident?publish=yes)
+[Team 120 NYPD Shooting Incident](https://public.tableau.com/app/profile/xinyi.lu8284/viz/NYPDShootingIncident-Group120/NYPDShootingIncident?publish=yes)
 
-[Team 122](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
+[Team 122 Ski Resort](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
 
+[Team 125 US Unemployment and Education Level](https://public.tableau.com/views/USUnemploymentEducationLevel/USUnemploymentEducationLevel?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Team 125](https://public.tableau.com/views/USUnemploymentEducationLevel/USUnemploymentEducationLevel?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Team 126 Flight Price Prediction](https://public.tableau.com/app/profile/sitong.zhou2895/viz/FlightPricePrediction--Team126/Story1?publish=yes)
 
-[Team 126](https://public.tableau.com/app/profile/sitong.zhou2895/viz/FlightPricePrediction--Team126/Story1?publish=yes)
+[Team 127 E-Commerce Analysis](https://public.tableau.com/app/profile/zhifeng.yu4027/viz/e-commerceanalysis_17294796250090/Story?publish=yes)
 
-[Team 127](https://public.tableau.com/app/profile/zhifeng.yu4027/viz/e-commerceanalysis_17294796250090/Story?publish=yes)
-
-[Team 128](https://public.tableau.com/app/profile/manman.wei/viz/100AcceleratorsPortfolioUSStartups2009-2019/Story2?publish=yes)
-
-[Team 130](https://public.tableau.com/shared/KRSDSFHD7?:display_count=n&:origin=viz_share_link)
+[Team 128 Accelerators Portfolio: US Startups](https://public.tableau.com/app/profile/manman.wei/viz/100AcceleratorsPortfolioUSStartups2009-2019/Story2?publish=yes)
 
 [Team 132](https://public.tableau.com/app/profile/yanming.zhang/viz/WineDatasetTeam132/Wine?publish=yes)
 
