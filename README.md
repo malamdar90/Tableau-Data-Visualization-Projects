@@ -14,7 +14,7 @@
 
 **Projects:** Total of 136 Projects
 
-**Format:** In-Person
+**Format:** In-Person/Zoom
 
 **Duration:** 8 Weeks
 
