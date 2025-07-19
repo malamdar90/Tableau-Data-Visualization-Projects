@@ -79,12 +79,9 @@
 **Health & Medical**
 - [Team 7	Diabetes Prediction](https://public.tableau.com/shared/XNDWHKJ7Z?:display_count=n&:origin=viz_share_link)
 - [Team 22 Personal Key Indicator of Heart Disease](https://public.tableau.com/views/Group_22_Final_Project/DiseaseRelatedHealthCondition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- [Team 49 Pet Adoption Speed Prediction](https://public.tableau.com/app/profile/shusha.wang/viz/PetAdoption5Final6/FactorsAffectPetAdoption?publish=yes)
 - [Team 85 Medical Costs Personal Data](https://public.tableau.com/app/profile/qi.xie3649/viz/finalproject85/InsuranceChargeFactorAnalysis?publish=yes)
-- [Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
-- **[Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-- [Team 153 Food Nutriention](https://public.tableau.com/app/profile/boning.chu/viz/Final-11/Storytelling)
-- **[Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)**
+- [Team 106 Global Health and Population](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
+
 
 **Aviation & Flight Data**
 - [Team 54 U.S. Airline Traffic Data](https://public.tableau.com/views/dataprojectairtrafficGroup54/SeasonalityAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -207,6 +204,7 @@
 - [Team 30 Company Bankruptcy Prediction](https://public.tableau.com/views/CompanyBankruptcy7_21_1/Dashboard?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 33 IBM HR Analytics Employee Attrition & Performance](https://public.tableau.com/app/profile/jingxi.zhao/viz/DV_Project_final_Group33/IBMHRAnalyticsEmployeeAttritionPerformance?publish=yes)
 - [Team 34 Walmart Dataset](https://public.tableau.com/app/profile/gaoya.zhao/viz/Group34-WalmartDataset-SalesandEconomicFactors/EcononicFactorsandSalesDashboard#1)
+- [Team 49 Pet Adoption Speed Prediction](https://public.tableau.com/app/profile/shusha.wang/viz/PetAdoption5Final6/FactorsAffectPetAdoption?publish=yes)
 - [Team 51 Bees & Pesticides](https://public.tableau.com/views/BeeProjectdent_v2/Publishabledashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 - **[Team 74 US Car Accident 2016 - 2022](https://public.tableau.com/app/profile/yizhou.yang3318/viz/ProjectCarAccident/Story1#1)**
 - [Team 80 Mobile App Statistics](https://public.tableau.com/app/profile/zihao.shen3533/viz/DV_final_group80/Dashboard?publish=yes)
@@ -218,7 +216,9 @@
 - [Team 119 Barcelona Analysis](https://public.tableau.com/views/BarcelonaAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 122 Ski Resort](https://public.tableau.com/app/profile/zesheng.li4599/viz/SkiResortfinalproject_NewVersion/Story1)
 - **[Team 123 Wine Testing](https://public.tableau.com/app/profile/qiutong.ye/viz/WineTastingOverview_Team123/Summary?publish=yes)**
-- **[Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)**
+- **[Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- [Team 153 Food Nutriention](https://public.tableau.com/app/profile/boning.chu/viz/Final-11/Storytelling)
+- **[Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)**- **[Team 131 Google Stock](https://public.tableau.com/app/profile/jiaqi.yu7944/viz/DVfinal_17288486845580/StartingPage?publish=yes)**
 - [Team 132 Wine Dataset](https://public.tableau.com/app/profile/yanming.zhang/viz/WineDatasetTeam132/Wine?publish=yes)
 - [Team 133 Wine Review](https://public.tableau.com/app/profile/mingyue.dai2921/viz/Team133WineReview/Overall)
 - [Team 145 Ski Resort](https://public.tableau.com/views/FinalProject_SkiResort/SkiResort?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
