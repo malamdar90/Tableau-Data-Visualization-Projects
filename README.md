@@ -206,14 +206,29 @@
 - [Team 159 Household Income Data Analysis](https://public.tableau.com/app/profile/zixuan.wang5235/viz/DataVisualizationTeam159USHouseholdIncomeAnalysis/ImpactofLandAreaonIncomeandIncomeDisparity#1)
 - [Team 166 US Birth Data](https://public.tableau.com/views/Usbirthdatastory/Story1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 168 App Store Insight](https://public.tableau.com/views/Group168Groupwork/AppStoreInsights?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-
-
-
-
-
-
+- [Team 46 Visualizing Airbnb Performance Across U.S. Cities])(https://public.tableau.com/app/profile/yiren.sun6732/viz/final_project_17527872180460/Story1?publish=yes)
+  
+-  [Team 46 Visualizing Airbnb Performance Across U.S. Cities](https://public.tableau.com/app/profile/yiren.sun6732/viz/final_project_17527872180460/Story1?publish=yes)
+-  [Team 47 Global AI Job Market & Salary Trends 2025](https://public.tableau.com/views/GlobalAIJobMarketSalaryTrend/HomePage?:language=zh-CN&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
+-  [Team 48 NBA Dataset (1947 - Today)](https://public.tableau.com/app/profile/taojie.shi/viz/Team48_NBAAnalysis/HomePage?publish=yes)
+-  [Team 49 Pet Adoption Speed Prediction](https://public.tableau.com/app/profile/shusha.wang/viz/PetAdoption5Final6/FactorsAffectPetAdoption?publish=yes)
+-  [Team 50 Students' Social Media Addiction](https://public.tableau.com/views/FinalDashboard_17528466700100/NavigationPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+-  [Team 52 Crime in Baltimore](https://public.tableau.com/app/profile/zhixuan.xia/viz/BaltimoreCrimeDataAnalysisProject/BaltimoreCrimeAnalysis)
+-  [Team 53 Web Marketing Campaign Performance Analysis](https://public.tableau.com/app/profile/aashna.harish.chib/viz/WebCampaignAnalysis-AashnaChibEvaJohnTaylorYinYoujungKimYuriJung/Dashboard?publish=yes)
+-  [Team 54 U.S. Airline Traffic Data](https://public.tableau.com/views/dataprojectairtrafficGroup54/SeasonalityAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+-  [Team 55 US Cars](https://public.tableau.com/app/profile/jingshan.zhang/viz/USASecond-HandCar-Team55/FrontPage)
+-  [Team 56 Best show in Netflix](https://public.tableau.com/app/profile/yifei.ruan/viz/GroupProject_17528757187470/NetflixMoviesAndTVShowsVisualization?publish=yes)
+-  [Team 57 US Police Shootings](https://public.tableau.com/views/Group_17525740268350/UnderstandingPoliceShootingsAData-DrivenExplorationofDemographicsGeographyRiskandRacialDisparities?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+-  [Team 58 Road Traffic Accident](https://public.tableau.com/app/profile/yangminhui.chen/viz/AnalysisofRoadTrafficAccidents-Final/CoverPage?publish=yes )
+-  [Team 59 Used Car Price Prediction](https://public.tableau.com/app/profile/yirui.wang/viz/TableauFinalVersion2/Dashboard5?publish=yes)
+-  [Team 60 US Air Quality](https://public.tableau.com/app/profile/xuncheng.wang/viz/Team60AMulti-DimensionalViewofU_S_AirQuality/CoverPage?publish=yes)
+-  [Team 61 IMDB Movie](https://public.tableau.com/app/profile/jiayang.yin4133/viz/IMDBMoviesDataAnalysis_Group61/FrontPage?publish=yes)
+-  [Team 62 Electric Vehicles](https://public.tableau.com/app/profile/nicole.chu4291/viz/Team62-WashingtonEVs/NavigationPage?publish=yes)
+-  [Team 63 Indian Car sell dataset: Brand, Model, price](https://public.tableau.com/app/profile/cassie.zhao5288/viz/Team63IndianCarMarket_17527203135480/IndianCarMarket?publish=yes)
+-  [Team 64 Education Under Attack 2020 to 2025](https://public.tableau.com/app/profile/haixin.cao/viz/Group64-EducationUnderAttackDataVisualization/Introduction?publish=yes)
+-  [Team 65 Global Development Full Analysis (2000-2020)](https://public.tableau.com/app/profile/xiru.li/viz/FinalDashboard-Group65/MainMenu?publish=yes)
+-  [Team 66 Netflix Movies and TV Shows](https://public.tableau.com/app/profile/tingwei.wang/viz/team66finalproject/HOMEPAGE?publish=yes)
+-  [Team 67 Apartment for Rent Classified](https://public.tableau.com/shared/R782FFZMK)
 
 
 
