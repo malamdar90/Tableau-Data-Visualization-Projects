@@ -206,7 +206,7 @@
 - [Team 159 Household Income Data Analysis](https://public.tableau.com/app/profile/zixuan.wang5235/viz/DataVisualizationTeam159USHouseholdIncomeAnalysis/ImpactofLandAreaonIncomeandIncomeDisparity#1)
 - [Team 166 US Birth Data](https://public.tableau.com/views/Usbirthdatastory/Story1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Team 168 App Store Insight](https://public.tableau.com/views/Group168Groupwork/AppStoreInsights?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Team 46 Visualizing Airbnb Performance Across U.S. Cities])(https://public.tableau.com/app/profile/yiren.sun6732/viz/final_project_17527872180460/Story1?publish=yes)
+
   
 -  [Team 46 Visualizing Airbnb Performance Across U.S. Cities](https://public.tableau.com/app/profile/yiren.sun6732/viz/final_project_17527872180460/Story1?publish=yes)
 -  [Team 47 Global AI Job Market & Salary Trends 2025](https://public.tableau.com/views/GlobalAIJobMarketSalaryTrend/HomePage?:language=zh-CN&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
