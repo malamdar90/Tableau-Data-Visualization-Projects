@@ -138,6 +138,7 @@
 - [Team 16 Avocado Prices](https://public.tableau.com/views/AvocadoPricesStory/AvocadoPrices?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
 - [Team 55 US Cars](https://public.tableau.com/app/profile/jingshan.zhang/viz/USASecond-HandCar-Team55/FrontPage)
+- [Team 59 Used Car Price Prediction](https://public.tableau.com/app/profile/yirui.wang/viz/TableauFinalVersion2/Dashboard5?publish=yes)
 - [Team 62 Electric Vehicles](https://public.tableau.com/app/profile/nicole.chu4291/viz/Team62-WashingtonEVs/NavigationPage?publish=yes)
 - [Team 63 Indian Car sell dataset: Brand, Model, price](https://public.tableau.com/app/profile/cassie.zhao5288/viz/Team63IndianCarMarket_17527203135480/IndianCarMarket?publish=yes)
 - [Team 89 Fast Food Restaurants Across America](https://public.tableau.com/app/profile/ying.pei3057/viz/Team89_FastFoodRestruant/Team89_FastFoodRestaurantAnalysis?publish=yes)
@@ -190,7 +191,6 @@
 - [Team 44	121 Airline Passenger Satisfaction	Part 1](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Basicsituationcheck), 
 [Part 2](https://public.tableau.com/app/profile/ziqi.sheng/viz/Finalproject_16902993825090/Retainbusinessclassforage20-40?publish=yes)
 - [Team 53 Web Marketing Campaign Performance Analysis](https://public.tableau.com/app/profile/aashna.harish.chib/viz/WebCampaignAnalysis-AashnaChibEvaJohnTaylorYinYoujungKimYuriJung/Dashboard?publish=yes)
-- [Team 59 Used Car Price Prediction](https://public.tableau.com/app/profile/yirui.wang/viz/TableauFinalVersion2/Dashboard5?publish=yes)
 - **[Team 87 Walmart Sales Forecast](https://public.tableau.com/app/profile/yiran.jia4698/viz/WalmartSales_Group87/Introduction?publish=yes)**
 - [Team 135 Customer Base Global Retail Bank](https://public.tableau.com/app/profile/rui.hong/viz/Team135-Customerbaseglobalretailbank/Dashboard6)
 - [Team 141 Superstore Sales Analysis](https://public.tableau.com/app/profile/helin.zhao/viz/Groupworkver1_00/Ver0_15?publish=yes)
