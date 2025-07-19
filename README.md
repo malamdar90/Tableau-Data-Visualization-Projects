@@ -63,8 +63,7 @@
 - [Team 137 Crimes of Marijuana in Columbia](https://public.tableau.com/app/profile/yuming.liu4202/viz/137grouptableau-biaoti/Intro?publish=yes)
 - [Team 142 Crash Report Analytics](https://public.tableau.com/app/profile/xinyi.zheng1134/viz/FinalProject1_17294459640510/Final?publish=yes)
 - **[Team 151 Crash Analysis in Maryland](https://public.tableau.com/views/Team151CrashanalysisinMaryland_17292085871930/CoverPage?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-- **[Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-- **[Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)**
+
 
 **Movies, TV Shows & Video Games**
 - [Team 31 IMDB Movies Dataset](https://public.tableau.com/views/Datavisualization_IMDB_Group_31_Final/ItisbettertoproducedocumentarygenreandJuneandDecemberarebettertimetoreleaseMovie?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -84,7 +83,9 @@
 - [Team 49 Pet Adoption Speed Prediction](https://public.tableau.com/app/profile/shusha.wang/viz/PetAdoption5Final6/FactorsAffectPetAdoption?publish=yes)
 - [Team 85 Medical Costs Personal Data](https://public.tableau.com/app/profile/qi.xie3649/viz/finalproject85/InsuranceChargeFactorAnalysis?publish=yes)
 - [Team 106 Health & Income Outcomes of OECD & OPEC Countries](https://public.tableau.com/shared/P5H98K8G3?:display_count=n&:origin=viz_share_link)
+- **[Team 124 NYC Restaurant Inspections](https://public.tableau.com/views/NYCRestaurantInspections_Group124_copy/Introduction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - [Team 153 Food Nutriention](https://public.tableau.com/app/profile/boning.chu/viz/Final-11/Storytelling)
+- **[Team 167 NYC Restaurant Inspection](https://public.tableau.com/app/profile/yina.zhou/viz/NYCrestaurantinspectionG167/Final1?publish=yes)**
 
 **Aviation & Flight Data**
 - [Team 54 U.S. Airline Traffic Data](https://public.tableau.com/views/dataprojectairtrafficGroup54/SeasonalityAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
