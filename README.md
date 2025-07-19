@@ -122,7 +122,6 @@
 **Real Estate & Housing**
 - [Team 4	New York City Airbnb Open Data](https://public.tableau.com/shared/T9Q9XYKW5?:display_count=n&:origin=viz_share_link)
 - [Team 15 New York City Airbnb Open Data](https://public.tableau.com/views/Group15_16898776937640/Whatfactorshaveimpactsonairbnbprice?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link)
-- **[Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 - [Team 18 USA Real Estate Dataset](https://public.tableau.com/app/profile/zifan.xu3168/viz/DV_FinalProject_FinalVersion/Whereandhowtochooseyourhouse?publish=yes)
 - [Team 29 New York City Airbnb Open Data](https://public.tableau.com/app/profile/shuo.zhang6571/viz/DV_FinalProject_16902389571030/AirbnbStory?publish=yes)
 - [Team 46 Visualizing Airbnb Performance Across U.S. Cities](https://public.tableau.com/app/profile/yiren.sun6732/viz/final_project_17527872180460/Story1?publish=yes)
@@ -137,6 +136,7 @@
 - **[Team 2 Adidas Sales](https://public.tableau.com/shared/JDSM374JC?:display_count=n&:origin=viz_share_link)**
 - **[Team 6	Adidas Sales](https://public.tableau.com/app/profile/xiaoqian.ma/viz/AdidasSalesAnalysis_Team6/Time-basedAnalysis)**
 - [Team 16 Avocado Prices](https://public.tableau.com/views/AvocadoPricesStory/AvocadoPrices?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- **[Team 17 Hotel Booking and Cancelation](https://public.tableau.com/views/Hotelbooking-finalproject/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 - [Team 39 Adidas Sales Dataset](https://public.tableau.com/app/profile/miao.shan/viz/Team39AdidasAnalysis/Team39AdidasDataAnalysis?publish=yes)
 - [Team 55 US Cars](https://public.tableau.com/app/profile/jingshan.zhang/viz/USASecond-HandCar-Team55/FrontPage)
 - [Team 62 Electric Vehicles](https://public.tableau.com/app/profile/nicole.chu4291/viz/Team62-WashingtonEVs/NavigationPage?publish=yes)
