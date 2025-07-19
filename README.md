@@ -74,7 +74,6 @@
 - [Team 79 Netflix Movies and TV shows](https://public.tableau.com/app/profile/ld.cao/viz/Netflix_final_17214959262460/NetflixMoviesandTVshowsAnalysis_Team79?publish=yes)
 - **[Team 97 Video Game Sales](https://public.tableau.com/app/profile/yexi.shen/viz/VideoGameSalesAnalysis_17216144962440/VideoGameSales#1)**
 - **[Team 100 Netflix Movies and TV shows](https://public.tableau.com/views/NetflixVisulization_Team100/NetflixVisualizationDashboard?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-- [Team 103 Pokemon with Stats](https://public.tableau.com/app/profile/yang.fan2879/viz/pokemoncomparison/Pokemon?publish=yes)
 - [Team 143 Movie Popularity Analysis](https://public.tableau.com/views/Group143/MoviePopularityAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Health & Medical**
@@ -161,6 +160,7 @@
 - [Team 45 NBA Players](https://public.tableau.com/views/Team45-Project-new/NBAStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Team 48 NBA Dataset (1947 - Today)](https://public.tableau.com/app/profile/taojie.shi/viz/Team48_NBAAnalysis/HomePage?publish=yes)
 - [Team 84 120 Years of Olympic History](https://public.tableau.com/app/profile/peilin.shi/viz/Team84FinalProject/OverallStatistic)
+- [Team 103 Pokemon with Stats](https://public.tableau.com/app/profile/yang.fan2879/viz/pokemoncomparison/Pokemon?publish=yes)
 - [Team 107 Olympic Swimming History](https://public.tableau.com/app/profile/ching.yi.hsu/viz/Team107DV/1912-2020OlympicSwimmingGamesAnalysis?publish=yes)
 - [Team 117 CSGO Analysis](https://public.tableau.com/app/profile/jiale.zhu4954/viz/CSGOAnalysis_FinalVersion/Story1)
 
